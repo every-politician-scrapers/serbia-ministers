@@ -1,37 +1,31 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
-Q16082744,Aleksandar Antić,Aleksandar Antić,male,1969-05-07T00:00:00Z,11,,Q2198845,Minister of Energy and Mining,Q16082744-32f1ada6-43d3-dc49-99a5-e8f61a2d864f
-Q11074974,Aleksandar Vulin,Aleksandar Vulin,male,1972-10-02T00:00:00Z,11,,Q2199011,Minister of Internal Affairs,Q11074974-6089aa5f-4bc5-23e5-ad9a-b16b4fe3a7a9
-Q26258815,Ana Brnabić,Ana Brnabić,female,1975-09-28T00:00:00Z,11,,Q835586,Prime Minister of Serbia,Q26258815-05cda942-4f1a-6dc7-7c34-3b6cdd11b2cd
-Q100975934,Anđelka Atanasković,Anđelka Atanasković,female,1958-01-01T00:00:00Z,9,,Q108304950,Minister of Economy,Q100975934-D9BED26D-B6A8-4F34-9E62-B22C5721E029
-Q29571792,Branislav Nedimović,Branislav Nedimović,male,1977-11-27T00:00:00Z,11,,Q16799332,Deputy Prime Minister of Serbia,Q29571792-2471AE33-3F0A-474D-B5BD-793859FE32C9
-Q29571792,Branislav Nedimović,Branislav Nedimović,male,1977-11-27T00:00:00Z,11,,Q2198698,Minister of Agriculture,Q29571792-F9BE45B7-0490-49BB-BD6B-F0C5FBCC8F08
-Q12749330,Branko Ružić,Branko Ružić,male,1975-12-14T00:00:00Z,11,,Q16799332,Deputy Prime Minister of Serbia,Q12749330-20223D6B-95AD-449C-975A-F8BA5E04F4E2
-Q12749330,Branko Ružić,Branko Ružić,male,1975-12-14T00:00:00Z,11,,Q2198808,Minister of Education,Q12749330-E023DAFD-45A2-431D-83BA-1CD0922992E0
-Q16916400,Bratislav Gašić,Bratislav Gašić,male,1967-06-30T00:00:00Z,11,,Q2198783,Minister of Defense,Q16916400-3f782555-45f2-3bd5-805d-6f29890abd29
-Q97329382,Darija Kisić Tepavčević,Darija Kisić Tepavčević,female,1975-08-20T00:00:00Z,11,,Q2199072,"Minister of Labour, Employment and Social Policy",Q97329382-4553C62E-B6B2-4986-9E78-4643D8407B1B
-Q16269542,Gordana Čomić,Gordana Čomić,female,1958-06-16T00:00:00Z,11,,Q16935308,Minister of Human and Minority Rights,Q16269542-DF18EA46-2222-45B9-9349-DB147DF9729D
-Q97041188,Irena Vujović,Irena Vujović,female,1983-04-03T00:00:00Z,11,,Q108306926,Minister of Environmental Protection,Q97041188-E68CC3A4-EC31-4A7C-A787-9CA2445FE817
-Q58278,Ivan Mrkić,Ivan Mrkić,male,1953-05-30T00:00:00Z,11,,Q2198943,Minister of Foreign Affairs,q58278-1eb179a3-4311-1b03-35b6-2b8b626e16fe
-Q57843,Ivica Dačić,Ivica Dačić,male,1966-01-01T00:00:00Z,11,,Q2198943,Minister of Foreign Affairs,Q57843-FA5B696F-97E2-4AF5-944B-5A037AEBACD0
-Q17388477,Jadranka Joksimović,Jadranka Joksimović,female,1978-01-26T00:00:00Z,11,,Q108306932,Minister of European Integration,Q17388477-8F33D310-68D5-4C4B-8BDD-03732BA4B4B7
-Q1280390,Maja Gojković,Maja Gojković,female,1963-05-22T00:00:00Z,11,,Q16799332,Deputy Prime Minister of Serbia,Q1280390-9594EF93-FABF-4C61-8F36-C30B02C29444
-Q1280390,Maja Gojković,Maja Gojković,female,1963-05-22T00:00:00Z,11,,Q2198731,Minister of Culture,Q1280390-4D3704AC-C9DA-4354-B15B-F3AB87BBD255
-Q100996171,Maja Popović,Maja Popović,female,1972-01-01T00:00:00Z,9,,Q2199031,Minister of Justice of Serbia,Q100996171-97B3882E-A2D2-4464-8DAF-02C5648D910D
-Q27907563,Marija Obradović,Marija Obradović,female,1974-06-24T00:00:00Z,11,,Q2199719,Minister of Public Administration and Local Self-Government,Q27907563-3CCA8073-1693-4E5E-BDB9-E00B4AFC5760
-Q15708342,Milan Krkobabić,Milan Krkobabić,male,1952-01-01T00:00:00Z,11,,Q108304964,Minister of Rural Welfare,Q15708342-825B0B29-ABAA-42C0-8D7F-417B3F3FBFB9
-Q27480291,Mladen Šarčević,Mladen Šarčević,male,1957-01-22T00:00:00Z,11,,Q2198808,Minister of Education,Q27480291-2cf8118d-41e6-4217-1d05-cb8a249c75eb
-Q55127874,Mothanna Gharaibeh,Mothanna Gharaibeh,male,1980-01-01T00:00:00Z,9,,Q17098318,Minister of Information,Q55127874-89f49550-4965-cc01-c49f-3f8881307f81
-Q4442477,Nebojša Stefanović,Nebojša Stefanović,male,1976-11-20T00:00:00Z,11,,Q16799332,Deputy Prime Minister of Serbia,Q4442477-14668F86-3F29-48C7-94A1-C2374DE74BB2
-Q4442477,Nebojša Stefanović,Nebojša Stefanović,male,1976-11-20T00:00:00Z,11,,Q2198783,Minister of Defense,Q4442477-BACE0A9A-28EB-4013-B884-8E745988D879
-Q4372683,Nenad Popović,Nenad Popović,male,1966-09-30T00:00:00Z,11,,Q2199785,Minister without portfolio of the Republic of Serbia,Q4372683-10DE8B39-48C1-4EA2-B6D5-C03943B730CC
-Q7438681,Nikola Selaković,Nikola Selaković,male,1983-04-30T00:00:00Z,11,,Q2198943,Minister of Foreign Affairs,Q7438681-F2B8DE8C-3350-46ED-B85A-288A7DA11838
-Q55584331,Novica Tončev,Novica Tončev,male,1962-12-09T00:00:00Z,11,,Q2199785,Minister without portfolio of the Republic of Serbia,Q55584331-3CEB5025-F13E-460E-AB78-784ED00BF9D4
-Q12959561,Radomir Dmitrović,Radomir Dmitrović,male,1958-01-01T00:00:00Z,9,,Q108306941,Minister of Families and Demographics,Q12959561-9388EB35-E283-4D71-BEF2-9BE7BE98293D
-Q16935101,Siniša Mali,Siniša Mali,male,1972-08-25T00:00:00Z,11,,Q108304936,Minister of Finance,Q16935101-96892158-4b27-c48d-a02a-4f744ffb90ee
-Q100975531,Tatjana Matić,Tatjana Matić,female,1972-07-02T00:00:00Z,11,,Q2198867,"Minister of Trade, Tourism and Telecommunications",Q100975531-42726747-856F-4710-9017-5DA594F598AD
-Q100848615,Tomislav Momirović,Tomislav Momirović,male,1983-10-17T00:00:00Z,11,,Q2199745,"Minister of Transportation, Construction and Infrastructure",Q100848615-A203C0A7-9E9A-4C71-A645-8BEA03025B7E
-Q1292388,Vanja Udovičić,Vanja Udovičić,male,1982-09-12T00:00:00Z,11,,Q2199761,Minister of Youth and Sports,Q1292388-9D352F70-C232-4B32-8048-A3426243B093
-Q27814282,Vladan Vukosavljević,Vladan Vukosavljević,male,1962-01-01T00:00:00Z,9,,Q2198731,Minister of Culture,Q27814282-f9e99f0d-45fa-c59c-a925-0f104a8036ba
-Q17350745,Zlatibor Lončar,Zlatibor Lončar,male,1971-08-03T00:00:00Z,11,,Q2198964,Health Minister of Serbia,Q17350745-C111E242-081D-47D5-B6CE-F174549EE605
-Q10843366,Zorana Mihajlović,Zorana Mihajlović,female,1970-05-05T00:00:00Z,11,,Q16799332,Deputy Prime Minister of Serbia,Q10843366-B32A9F1C-49F4-4DB6-AB9E-26322854A9CA
-Q10843366,Zorana Mihajlović,Zorana Mihajlović,female,1970-05-05T00:00:00Z,11,,Q2198845,Minister of Energy and Mining,Q10843366-7A33050B-D63A-4ABE-A45B-50EFB568E9D6
+Q11074974,Aleksandar Vulin,Aleksandar Vulin,male,1972-10-02T00:00:00Z,11,https://www.srbija.gov.rs/sastav/en/10/members-of-government.php,Q2199011,Minister of the Interior,Q11074974-6089aa5f-4bc5-23e5-ad9a-b16b4fe3a7a9
+Q26258815,Ana Brnabic,Ana Brnabić,female,1975-09-28T00:00:00Z,11,https://www.srbija.gov.rs/sastav/en/10/members-of-government.php,Q835586,Prime Minister,Q26258815-05cda942-4f1a-6dc7-7c34-3b6cdd11b2cd
+Q100975934,Andjelka Atanaskovic,Anđelka Atanasković,female,1958-01-01T00:00:00Z,9,https://www.srbija.gov.rs/sastav/en/10/members-of-government.php,Q108304950,Minister of Economy,Q100975934-D9BED26D-B6A8-4F34-9E62-B22C5721E029
+Q29571792,Branislav Nedimovic,Branislav Nedimović,male,1977-11-27T00:00:00Z,11,https://www.srbija.gov.rs/sastav/en/10/members-of-government.php,Q16799332,Deputy Prime Minister,Q29571792-2471AE33-3F0A-474D-B5BD-793859FE32C9
+Q29571792,Branislav Nedimovic,Branislav Nedimović,male,1977-11-27T00:00:00Z,11,https://www.srbija.gov.rs/sastav/en/10/members-of-government.php,Q2198698,"Minister of Agriculture, Forestry and Water Management",Q29571792-F9BE45B7-0490-49BB-BD6B-F0C5FBCC8F08
+Q12749330,Branko Ruzic,Branko Ružić,male,1975-12-14T00:00:00Z,11,https://www.srbija.gov.rs/sastav/en/10/members-of-government.php,Q16799332,First Deputy Prime Minister,Q12749330-20223D6B-95AD-449C-975A-F8BA5E04F4E2
+Q12749330,Branko Ruzic,Branko Ružić,male,1975-12-14T00:00:00Z,11,https://www.srbija.gov.rs/sastav/en/10/members-of-government.php,Q2198808,"Minister of Education, Science and Technological Development",Q12749330-E023DAFD-45A2-431D-83BA-1CD0922992E0
+Q97329382,Darija Kisic Tepavcevic,Darija Kisić Tepavčević,female,1975-08-20T00:00:00Z,11,https://www.srbija.gov.rs/sastav/en/10/members-of-government.php,Q2199072,"Minister of Labour, Employment, Veteran and Social Affairs",Q97329382-4553C62E-B6B2-4986-9E78-4643D8407B1B
+Q16269542,Gordana Comic,Gordana Čomić,female,1958-06-16T00:00:00Z,11,https://www.srbija.gov.rs/sastav/en/10/members-of-government.php,Q16935308,Minister for Human and Minority Rights and Social Dialogue,Q16269542-DF18EA46-2222-45B9-9349-DB147DF9729D
+Q97041188,Irena Vujovic,Irena Vujović,female,1983-04-03T00:00:00Z,11,https://www.srbija.gov.rs/sastav/en/10/members-of-government.php,Q108306926,Minister of Environmental Protection,Q97041188-E68CC3A4-EC31-4A7C-A787-9CA2445FE817
+Q17388477,Jadranka Joksimovic,Jadranka Joksimović,female,1978-01-26T00:00:00Z,11,https://www.srbija.gov.rs/sastav/en/10/members-of-government.php,Q108306932,Minister for European Integration,Q17388477-8F33D310-68D5-4C4B-8BDD-03732BA4B4B7
+Q1280390,Maja Gojkovic,Maja Gojković,female,1963-05-22T00:00:00Z,11,https://www.srbija.gov.rs/sastav/en/10/members-of-government.php,Q16799332,Deputy Prime Minister,Q1280390-9594EF93-FABF-4C61-8F36-C30B02C29444
+Q1280390,Maja Gojkovic,Maja Gojković,female,1963-05-22T00:00:00Z,11,https://www.srbija.gov.rs/sastav/en/10/members-of-government.php,Q2198731,Minister of Culture and Information,Q1280390-4D3704AC-C9DA-4354-B15B-F3AB87BBD255
+Q100996171,Maja Popovic,Maja Popović,female,1972-01-01T00:00:00Z,9,https://www.srbija.gov.rs/sastav/en/10/members-of-government.php,Q2199031,Minister of Justice,Q100996171-97B3882E-A2D2-4464-8DAF-02C5648D910D
+Q27907563,Marija Obradovic,Marija Obradović,female,1974-06-24T00:00:00Z,11,https://www.srbija.gov.rs/sastav/en/10/members-of-government.php,Q2199719,Minister of Public Administration and Local Self-Government,Q27907563-3CCA8073-1693-4E5E-BDB9-E00B4AFC5760
+Q15708342,Milan Krkobabic,Milan Krkobabić,male,1952-01-01T00:00:00Z,11,https://www.srbija.gov.rs/sastav/en/10/members-of-government.php,Q108304964,Minister of Rural Welfare,Q15708342-825B0B29-ABAA-42C0-8D7F-417B3F3FBFB9
+Q4442477,Nebojsa Stefanovic,Nebojša Stefanović,male,1976-11-20T00:00:00Z,11,https://www.srbija.gov.rs/sastav/en/10/members-of-government.php,Q16799332,Deputy Prime Minister,Q4442477-14668F86-3F29-48C7-94A1-C2374DE74BB2
+Q4442477,Nebojsa Stefanovic,Nebojša Stefanović,male,1976-11-20T00:00:00Z,11,https://www.srbija.gov.rs/sastav/en/10/members-of-government.php,Q2198783,Minister of Defence,Q4442477-BACE0A9A-28EB-4013-B884-8E745988D879
+Q4372683,Nenad Popovic,Nenad Popović,male,1966-09-30T00:00:00Z,11,https://www.srbija.gov.rs/sastav/en/10/members-of-government.php,Q2199785,Minister without Portfolio,Q4372683-10DE8B39-48C1-4EA2-B6D5-C03943B730CC
+Q7438681,Nikola Selakovic,Nikola Selaković,male,1983-04-30T00:00:00Z,11,https://www.srbija.gov.rs/sastav/en/10/members-of-government.php,Q2198943,Minister of Foreign Affairs,Q7438681-F2B8DE8C-3350-46ED-B85A-288A7DA11838
+Q108307879,Novak Nedic,Novak Nedic,male,1982-01-01T00:00:00Z,9,https://www.srbija.gov.rs/sastav/en/10/members-of-government.php,Q25052039,Secretary-General,Q108307879-8847D467-1A70-48B3-8EF6-534739775DCD
+Q55584331,Novica Toncev,Novica Tončev,male,1962-12-09T00:00:00Z,11,https://www.srbija.gov.rs/sastav/en/10/members-of-government.php,Q2199785,Minister without Portfolio,Q55584331-3CEB5025-F13E-460E-AB78-784ED00BF9D4
+Q12959561,Radomir Ratko Dmitrovic,Radomir Dmitrović,male,1958-01-01T00:00:00Z,9,https://www.srbija.gov.rs/sastav/en/10/members-of-government.php,Q108306941,Minister of Family Welfare and Demography,Q12959561-9388EB35-E283-4D71-BEF2-9BE7BE98293D
+Q16935101,Sinisa Mali,Siniša Mali,male,1972-08-25T00:00:00Z,11,https://www.srbija.gov.rs/sastav/en/10/members-of-government.php,Q108304936,Minister of Finance,Q16935101-96892158-4b27-c48d-a02a-4f744ffb90ee
+Q100975531,Tatjana Matic,Tatjana Matić,female,1972-07-02T00:00:00Z,11,https://www.srbija.gov.rs/sastav/en/10/members-of-government.php,Q2198867,"Minister of Trade, Tourism and Telecommunications",Q100975531-42726747-856F-4710-9017-5DA594F598AD
+Q100848615,Tomislav Momirovic,Tomislav Momirović,male,1983-10-17T00:00:00Z,11,https://www.srbija.gov.rs/sastav/en/10/members-of-government.php,Q2199745,"Minister of Construction, Transport and Infrastructure",Q100848615-A203C0A7-9E9A-4C71-A645-8BEA03025B7E
+Q1292388,Vanja Udovicic,Vanja Udovičić,male,1982-09-12T00:00:00Z,11,https://www.srbija.gov.rs/sastav/en/10/members-of-government.php,Q2199761,Minister of Youth and Sport,Q1292388-9D352F70-C232-4B32-8048-A3426243B093
+Q17350745,Zlatibor Loncar,Zlatibor Lončar,male,1971-08-03T00:00:00Z,11,https://www.srbija.gov.rs/sastav/en/10/members-of-government.php,Q2198964,Minister of Health,Q17350745-C111E242-081D-47D5-B6CE-F174549EE605
+Q10843366,Zorana Mihajlovic,Zorana Mihajlović,female,1970-05-05T00:00:00Z,11,https://www.srbija.gov.rs/sastav/en/10/members-of-government.php,Q16799332,Deputy Prime Minister,Q10843366-B32A9F1C-49F4-4DB6-AB9E-26322854A9CA
+Q10843366,Zorana Mihajlovic,Zorana Mihajlović,female,1970-05-05T00:00:00Z,11,https://www.srbija.gov.rs/sastav/en/10/members-of-government.php,Q2198845,Minister of Mining and Energy,Q10843366-7A33050B-D63A-4ABE-A45B-50EFB568E9D6
