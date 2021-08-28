@@ -11,7 +11,7 @@ class MemberList
     end
 
     def position
-      noko.text.tidy
+      noko.text.tidy.split(/(?:and (?=Minister)|&)/).map(&:tidy)
     end
 
     private
