@@ -1,0 +1,30 @@
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q32276662,Q32276662,,,2000-10-25,11,,,2001-01-25,11,Q30301644,Cabinet of Serbia,,,,,,,Q16801143,Second cabinet of Mirko Marjanović,Q5015556,Cabinet of Serbia 2001-2004
+,Q25044067,Cabinet of Karađorđe Petrović,1811-01-22,11,,,1813-10-03,11,,,Q30301644,Cabinet of Serbia,,,,,,,,,,
+,Q16086621,Cabinet of Jovan Marinović,1873-11-03,11,,,1874-12-07,11,,,Q30301644,Cabinet of Serbia,,,,,,,,,,
+,Q16084144,Cabinet of Stevča Mihailović II,1876-05-06,11,,,1878-10-13,11,,,Q30301644,Cabinet of Serbia,,,,,,,,,,
+,Q16082710,Cabinet of Milan Piroćanac,1880-11-02,11,,,1883-10-03,11,,,Q30301644,Cabinet of Serbia,,,,,Q16083738,Cabinet of Nikola Hristić II,,,Q16083738,Cabinet of Nikola Hristić II
+,Q16083738,Cabinet of Nikola Hristić II,1883-10-03,11,,,1884-02-19,11,,,Q30301644,Cabinet of Serbia,,,Q16082710,Cabinet of Milan Piroćanac,,,Q16082710,Cabinet of Milan Piroćanac,,
+,Q25245652,Cabinet of Nikola Pašić VIII,1912-09-12,11,,,1914-12-05,11,,,Q30301644,Cabinet of Serbia,,,,,,,,,,
+,Q15090579,Cabinet of Blagoje Nešković,1945-04-09,11,1945-04-07,11,1946-11-22,11,1946-11-22,11,Q30301644,Cabinet of Serbia,,,,,,,,,,
+,Q16084117,Cabinet of Desimir Jevtić,1986-05-06,11,,,1989-12-05,11,,,Q30301644,Cabinet of Serbia,,,,,Q16083620,Cabinet of Stanko Radmilović,,,Q16083620,Cabinet of Stanko Radmilović
+,Q16083620,Cabinet of Stanko Radmilović,1989-12-05,11,,,1991-02-11,11,,,Q30301644,Cabinet of Serbia,,,Q16084117,Cabinet of Desimir Jevtić,Q21857331,Cabinet of Dragutin Zelenović,Q16084117,Cabinet of Desimir Jevtić,Q21857331,Cabinet of Dragutin Zelenović
+,Q21857331,Cabinet of Dragutin Zelenović,1991-02-11,11,,,1991-12-23,11,,,Q30301644,Cabinet of Serbia,,,Q16083620,Cabinet of Stanko Radmilović,Q19720495,Cabinet of Radoman Božović,Q16083620,Cabinet of Stanko Radmilović,Q19720495,Cabinet of Radoman Božović
+,Q19720495,Cabinet of Radoman Božović,1991-12-23,11,,,1993-02-10,11,,,Q30301644,Cabinet of Serbia,,,Q21857331,Cabinet of Dragutin Zelenović,Q25051886,Cabinet of Nikola Šainović,Q21857331,Cabinet of Dragutin Zelenović,,
+,Q25051886,Cabinet of Nikola Šainović,1993-02-10,11,,,1994-03-18,11,,,Q30301644,Cabinet of Serbia,,,Q19720495,Cabinet of Radoman Božović,,,,,,
+,Q16801143,Second cabinet of Mirko Marjanović,1998-03-24,11,,,2000-10-24,11,,,Q30301644,Cabinet of Serbia,,,,,Q15088443,2000-2001 Cabinet of Serbia,,,Q15088443,2000-2001 Cabinet of Serbia
+,Q15088443,2000-2001 Cabinet of Serbia,2000-10-25,11,,,2001-01-25,11,,,Q30301644,Cabinet of Serbia,,,Q16801143,Second cabinet of Mirko Marjanović,Q5015556,Cabinet of Serbia 2001-2004,Q16801143,Second cabinet of Mirko Marjanović,Q5015556,Cabinet of Serbia 2001-2004
+,Q5015556,Cabinet of Serbia 2001-2004,2001-01-25,11,2001-01-25,11,2003-03-18,11,2003-03-18,11,Q30301644,Cabinet of Serbia,,,Q15088443,2000-2001 Cabinet of Serbia,Q3112206,Cabinet of Serbia 2004-2007,Q32276662,Q32276662,Q16081605,Cabinet of Zoran Živković
+,Q16081605,Cabinet of Zoran Živković,2003-03-18,11,,,2004-03-03,11,,,Q30301644,Cabinet of Serbia,,,,,,,Q5015556,Cabinet of Serbia 2001-2004,Q3112206,Cabinet of Serbia 2004-2007
+,Q3112206,Cabinet of Serbia 2004-2007,2004-03-03,11,2004-03-03,11,2007-05-15,11,2007-05-15,11,Q30301644,Cabinet of Serbia,,,Q5015556,Cabinet of Serbia 2001-2004,Q1554491,Cabinet of Serbia 2007-8,Q5015556,Cabinet of Serbia 2001-2004,Q1554491,Cabinet of Serbia 2007-8
+,Q16083268,Q16083268,2005-02-15,11,,,2006-02-28,11,,,Q640506,cabinet,,,,,,,,,,
+,Q1554491,Cabinet of Serbia 2007-8,2007-05-15,11,2007-05-15,11,2008-07-07,11,,,Q30301644,Cabinet of Serbia,Q30301644,Cabinet of Serbia,Q3112206,Cabinet of Serbia 2004-2007,Q1252505,Cabinet of Serbia 2008-2012,Q3112206,Cabinet of Serbia 2004-2007,Q1252505,Cabinet of Serbia 2008-2012
+,Q1554491,Cabinet of Serbia 2007-8,2007-05-15,11,2007-05-15,11,2008-07-07,11,,,Q640506,cabinet,Q30301644,Cabinet of Serbia,Q3112206,Cabinet of Serbia 2004-2007,Q1252505,Cabinet of Serbia 2008-2012,Q3112206,Cabinet of Serbia 2004-2007,Q1252505,Cabinet of Serbia 2008-2012
+,Q1252505,Cabinet of Serbia 2008-2012,2008-07-07,11,2008-07-07,11,2012-07-27,11,,,Q30301644,Cabinet of Serbia,Q30301644,Cabinet of Serbia,Q1554491,Cabinet of Serbia 2007-8,Q902840,Cabinet of Ivica Dačić,Q1554491,Cabinet of Serbia 2007-8,Q902840,Cabinet of Ivica Dačić
+,Q902840,Cabinet of Ivica Dačić,2012-07-27,11,2012-07-27,11,2014-04-27,11,,,Q30301644,Cabinet of Serbia,,,Q1252505,Cabinet of Serbia 2008-2012,Q16802042,Cabinet of Aleksandar Vučić,Q1252505,Cabinet of Serbia 2008-2012,Q16802042,Cabinet of Aleksandar Vučić
+,Q16802042,Cabinet of Aleksandar Vučić,2014-04-27,11,,,2016-08-11,11,,,Q30301644,Cabinet of Serbia,,,Q902840,Cabinet of Ivica Dačić,Q26258393,Second cabinet of Aleksandar Vučić,Q902840,Cabinet of Ivica Dačić,,
+,Q16802042,Cabinet of Aleksandar Vučić,2014-04-27,11,,,2016-08-11,11,,,Q640506,cabinet,,,Q902840,Cabinet of Ivica Dačić,Q26258393,Second cabinet of Aleksandar Vučić,Q902840,Cabinet of Ivica Dačić,,
+,Q26258393,Second cabinet of Aleksandar Vučić,2016-08-11,11,,,2017-06-29,11,,,Q30301644,Cabinet of Serbia,,,Q16802042,Cabinet of Aleksandar Vučić,Q31202093,First cabinet of Ana Brnabić,,,,
+,Q31202093,First cabinet of Ana Brnabić,2017-06-29,11,,,2020-10-28,11,,,Q30301644,Cabinet of Serbia,,,Q26258393,Second cabinet of Aleksandar Vučić,Q100858235,Second cabinet of Ana Brnabić,,,,
+,Q31202093,First cabinet of Ana Brnabić,2017-06-29,11,,,2020-10-28,11,,,Q640506,cabinet,,,Q26258393,Second cabinet of Aleksandar Vučić,Q100858235,Second cabinet of Ana Brnabić,,,,
+,Q100858235,Second cabinet of Ana Brnabić,2020-10-28,11,,,,,,,Q30301644,Cabinet of Serbia,,,Q31202093,First cabinet of Ana Brnabić,,,,,,
