@@ -618,9 +618,6 @@
           "weight": {
             "text": "105 kg"
           },
-          "[object Object]": {
-            "text": "L/R    = Right"
-          },
           "position": {
             "text": "Center back"
           },
@@ -1402,8 +1399,11 @@
               "links": [
                 {
                   "text": "POŠK",
-                  "type": "internal",
-                  "page": ":hr:Vaterpolski klub POŠK"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "hr"
+                  }
                 }
               ]
             },
@@ -1412,8 +1412,11 @@
               "links": [
                 {
                   "text": "Jadran HN",
-                  "type": "internal",
-                  "page": ":hr:Vaterpolo klub Jadran Herceg-Novi"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "hr"
+                  }
                 }
               ]
             },
@@ -1422,8 +1425,11 @@
               "links": [
                 {
                   "text": "Jug CO",
-                  "type": "internal",
-                  "page": ":hr:VK Jug Dubrovnik"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "hr"
+                  }
                 }
               ]
             },
@@ -1492,8 +1498,11 @@
               "links": [
                 {
                   "text": "Medveščak",
-                  "type": "internal",
-                  "page": ":hr:Vaterpolski klub Medveščak"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "hr"
+                  }
                 }
               ]
             },
@@ -1502,8 +1511,11 @@
               "links": [
                 {
                   "text": "Spandau 04",
-                  "type": "internal",
-                  "page": ":hr:Wasserfreunde Spandau 04 Berlin"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "hr"
+                  }
                 },
                 {
                   "type": "internal",
