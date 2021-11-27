@@ -8,7 +8,8 @@
     "Serbs of Bosnia and Herzegovina",
     "University of Belgrade Faculty of Medicine alumni",
     "Government ministers of Serbia",
-    "Serbian epidemiologists"
+    "Serbian epidemiologists",
+    "Serbian Progressive Party politicians"
   ],
   "sections": [
     {
@@ -112,12 +113,12 @@
             "text": "August 20, 1975"
           },
           "party": {
-            "text": "Independent",
+            "text": "SNS (2021–present)",
             "links": [
               {
-                "text": "Independent",
+                "text": "SNS",
                 "type": "internal",
-                "page": "Independent (politician)"
+                "page": "Serbian Progressive Party"
               }
             ]
           },
@@ -285,6 +286,19 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 25 November 2021 she joined the Serbian Progressive Party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Serbian Progressive Party"
+                }
+              ]
+            }
+          ]
         }
       ],
       "references": [
@@ -334,6 +348,26 @@
           "access-date": "2020-10-28",
           "website": "N1 Srbija",
           "language": "sr-Latn",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "25 November 2021",
+          "title": "Ministarka Darija Kisić Tepavčević se učlanila u SNS, za sutra najavljen partijski događaj",
+          "url": "https://www.danas.rs/vesti/politika/ministarka-se-uclanila-u-sns-za-sutra-najavljen-partijski-dogadjaj/",
+          "url-status": "live",
+          "access-date": "2021-11-26",
+          "website": "Danas",
+          "language": "sr-RS",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Darija Kisić Tepavčević učlanila se u SNS",
+          "url": "https://www.b92.net/info/vesti/index.php?yyyy=2021&mm=11&dd=25&nav_category=11&nav_id=2062616",
+          "access-date": "2021-11-26",
+          "website": "B92.net",
+          "language": "sr-Latn-RS",
           "template": "citation",
           "type": "web"
         },
