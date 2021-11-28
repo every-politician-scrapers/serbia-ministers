@@ -111,7 +111,7 @@
               ]
             },
             {
-              "text": "Elected as a non-partisan politician, she joined the ruling Serbian Progressive Party in 2019.",
+              "text": "Elected as a non-partisan politician, she joined the ruling Serbian Progressive Party in 2019, and was subsequently elected as vice president in 2021.",
               "links": [
                 {
                   "text": "non-partisan",
@@ -981,6 +981,9 @@
                   "page": "World War II"
                 }
               ]
+            },
+            {
+              "text": "Brnabić was elected as vice president of SNS in November 2021."
             }
           ]
         }
@@ -1149,6 +1152,17 @@
           "title": "Prvi put policijski čas od Drugog svetskog rata, građani uglavnom poslušni",
           "date": "19 March 2020",
           "website": "N1",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "27 November 2021",
+          "title": "SNS obeležava 13 godina postojanja: Vučić predsednik SNS-a do izbora, izabrani novi potpresednici stranke",
+          "url": "https://www.b92.net/info/vesti/index.php?yyyy=2021&mm=11&dd=27&nav_category=11&nav_id=2063711",
+          "url-status": "live",
+          "access-date": "2021-11-27",
+          "website": "B92",
+          "language": "sr-Latn-RS",
           "template": "citation",
           "type": "web"
         },

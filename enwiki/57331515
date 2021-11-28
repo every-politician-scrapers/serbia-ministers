@@ -21,21 +21,31 @@
         {
           "sentences": [
             {
-              "text": "Marija Obradović is a Serbian politician serving as the Minister of Public Administration and Local Self-Government of Serbia since 2020 and as a vice president of the Serbian Progressive Party.",
+              "text": "Marija Obradović is a Serbian politician serving as the Minister of Public Administration and Local Self-Government of Serbia since 2020.",
               "links": [
                 {
                   "text": "Minister of Public Administration and Local Self-Government of Serbia",
                   "type": "internal",
                   "page": "Ministry of Public Administration and Local Self-Government"
-                },
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Marija Obradović"
+                ]
+              }
+            },
+            {
+              "text": "Obradović is a member of the Serbian Progressive Party (Srpska napredna stranka, SNS).",
+              "links": [
                 {
                   "type": "internal",
                   "page": "Serbian Progressive Party"
                 }
               ],
               "formatting": {
-                "bold": [
-                  "Marija Obradović"
+                "italic": [
+                  "Srpska napredna stranka"
                 ]
               }
             }
@@ -187,7 +197,7 @@
         {
           "sentences": [
             {
-              "text": "Obradović was born and raised in Kraljevo, then part of the Socialist Republic of Serbia in the Socialist Federal Republic of Yugoslavia.",
+              "text": "Obradović was born and raised in Kraljevo, in what was then the Socialist Republic of Serbia in the Socialist Federal Republic of Yugoslavia.",
               "links": [
                 {
                   "type": "internal",
@@ -476,6 +486,9 @@
             },
             {
               "text": "She resigned from the assembly on being appointed to cabinet."
+            },
+            {
+              "text": "Obradović served as the vice president of SNS until 2021."
             }
           ]
         }
@@ -552,6 +565,17 @@
           "type": "inline",
           "data": {},
           "inline": {}
+        },
+        {
+          "date": "27 November 2021",
+          "title": "SNS obeležava 13 godina postojanja: Vučić predsednik SNS-a do izbora, izabrani novi potpresednici stranke",
+          "url": "https://www.b92.net/info/vesti/index.php?yyyy=2021&mm=11&dd=27&nav_category=11&nav_id=2063711",
+          "url-status": "live",
+          "access-date": "2021-11-27",
+          "website": "B92",
+          "language": "sr-Latn-RS",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
