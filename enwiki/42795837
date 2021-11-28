@@ -861,7 +861,7 @@
         {
           "sentences": [
             {
-              "text": "Mali holds the position of a member of the Presidency of the Serbian Progressive Party.",
+              "text": "Mali held the position of a member of the Presidency of the Serbian Progressive Party until November 2021, when he was elected as one of the vice presidents of the party.",
               "links": [
                 {
                   "type": "internal",
@@ -1069,11 +1069,22 @@
           "type": "web"
         },
         {
-          "url": "https://www.b92.net/info/vesti/index.php?yyyy=2017&mm=11&dd=18&nav_category=11&nav_id=1326844",
           "title": "Ničić već stigao do Predsedništva, izabrani i Mali i Vesić",
+          "url": "https://www.b92.net/info/vesti/index.php?yyyy=2017&mm=11&dd=18&nav_category=11&nav_id=1326844",
+          "access-date": "9 July 2019",
           "website": "B92.net",
           "language": "sr-Latn-RS",
-          "access-date": "9 July 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "27 November 2021",
+          "title": "SNS obeležava 13 godina postojanja: Vučić predsednik SNS-a do izbora, izabrani novi potpresednici stranke",
+          "url": "https://www.b92.net/info/vesti/index.php?yyyy=2021&mm=11&dd=27&nav_category=11&nav_id=2063711",
+          "url-status": "live",
+          "access-date": "2021-11-27",
+          "website": "B92",
+          "language": "sr-Latn-RS",
           "template": "citation",
           "type": "web"
         },
