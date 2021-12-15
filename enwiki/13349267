@@ -85,12 +85,17 @@
               ]
             },
             {
-              "text": "In April 2017, Vučić was elected president with over 55% of the vote in the first round, thus avoiding a second round.",
+              "text": "In April 2017, Vučić was elected president with over 55% of the vote in the first round, thus avoiding a runoff.",
               "links": [
                 {
                   "text": "elected",
                   "type": "internal",
                   "page": "2017 Serbian presidential election"
+                },
+                {
+                  "text": "runoff",
+                  "type": "internal",
+                  "page": "runoff (election)"
                 }
               ]
             },
