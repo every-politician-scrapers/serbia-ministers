@@ -229,6 +229,13 @@
           "template": "birth date and age"
         },
         {
+          "name": "support",
+          "list": [
+            "Supported by the Serbian Progressive Party"
+          ],
+          "template": "efn"
+        },
+        {
           "list": [
             "SCG"
           ],
@@ -558,11 +565,12 @@
             "text": "Serbia · Croatia · Italy"
           },
           "party": {
-            "text": "Serbian Progressive Party",
+            "text": "Idependent",
             "links": [
               {
+                "text": "Idependent",
                 "type": "internal",
-                "page": "Serbian Progressive Party"
+                "page": "Independent (politics)"
               }
             ]
           },
@@ -711,16 +719,10 @@
       ],
       "references": [
         {
-          "url": "http://eizbori.com/vanja-udovicic-naprednjak-007-vaterpolista-u-vrhu-izborne-liste-sns-a/",
-          "title": "eizbori.com – This website is for sale!  – Resources and Information.",
-          "website": "eizbori.com",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "url": "http://www.danas.rs/danasrs/politika/vanja_udovicic_kandidat_naprednjaka.56.html?news_id=275515",
           "title": "Vanja Udovičić kandidat naprednjaka",
           "date": "31 January 2014",
+          "quote": "Na listi naprednjaka za gradske izbore 16. marta našla su se i dva člana Privremenog organa Beograda Siniša Mali i Goran Vesić, kao i nestranački ministar sporta i omladine u odlazećoj vladi Vanja Udovičić",
           "template": "citation",
           "type": "web"
         },
