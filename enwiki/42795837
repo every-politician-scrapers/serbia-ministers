@@ -26,7 +26,7 @@
         {
           "sentences": [
             {
-              "text": "Siniša Mali (, ; born 25 August 1972 ) is a Serbian economist and politician serving as the Minister of Finance since 29 May 2018.",
+              "text": "Siniša Mali (, ; born 25 August 1972) is a Serbian economist and politician serving as the Minister of Finance since 2018.",
               "links": [
                 {
                   "text": "Minister of Finance",
@@ -41,17 +41,21 @@
               }
             },
             {
-              "text": "A member of the Serbian Progressive Party, Mali previously served as the Mayor of Belgrade from 2014 to 2018, and as the President of the Temporary Council of Belgrade from 2013 to 2014.",
+              "text": "A member of the Serbian Progressive Party (SNS), Mali previously served as the mayor of Belgrade from 2014 to 2018, and as the president of the Temporary Council of Belgrade from 2013 to 2014.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Serbian Progressive Party"
                 },
                 {
+                  "text": "mayor of Belgrade",
                   "type": "internal",
-                  "page": "Mayor of Belgrade"
+                  "page": "mayor of Belgrade"
                 }
               ]
+            },
+            {
+              "text": "Mali was elected as vice president of SNS in 2021."
             }
           ]
         },
@@ -68,7 +72,7 @@
                 {
                   "text": "anti-government protests",
                   "type": "internal",
-                  "page": "Serbian protests (2018–present)"
+                  "page": "2018–2020 Serbian protests"
                 },
                 {
                   "type": "internal",
@@ -81,7 +85,7 @@
       ],
       "templates": [
         {
-          "description": "Serbian economist and politician",
+          "description": "Finance Minister of Serbia",
           "template": "short description"
         },
         {
@@ -241,9 +245,10 @@
             "text": "Economist"
           },
           "party": {
-            "text": "Serbian Progressive Party",
+            "text": "SNS (2014–present)",
             "links": [
               {
+                "text": "SNS",
                 "type": "internal",
                 "page": "Serbian Progressive Party"
               }
@@ -256,29 +261,10 @@
       ],
       "references": [
         {
-          "title": "Službeni list Grada Beograda, Year LVII, No. 52",
-          "journal": "Službeni List Grada Beograda",
-          "date": "20 November 2013",
-          "issn": "0350-4727",
-          "template": "citation",
-          "type": "journal"
-        },
-        {
           "template": "citation",
           "type": "inline",
           "data": {},
           "inline": {}
-        },
-        {
-          "url": "http://www.tanjug.rs/news/126461/sinisa-mali-becomes-belgrade-mayor.htm",
-          "title": "Sinisa Mali becomes Belgrade mayor",
-          "agency": "Tanjug News Agency",
-          "date": "24 April 2014",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20140501125302/http://www.tanjug.rs/news/126461/sinisa-mali-becomes-belgrade-mayor.htm",
-          "archive-date": "1 May 2014",
-          "template": "citation",
-          "type": "citation"
         }
       ]
     }
