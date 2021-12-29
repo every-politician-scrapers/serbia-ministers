@@ -81,6 +81,35 @@
           "name": {
             "text": "Irena Vujović"
           },
+          "native_name": {
+            "text": "Ирена Вујовић"
+          },
+          "native_name_lang": {
+            "text": "sr"
+          },
+          "image": {
+            "text": "Irena Vujovic-mc.rs (cropped).jpg"
+          },
+          "caption": {
+            "text": "Vujović in 2018"
+          },
+          "birth_date": {
+            "text": "April 3, 1983"
+          },
+          "birth_place": {
+            "text": "Belgrade, SFR Yugoslavia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Belgrade"
+              },
+              {
+                "text": "SFR Yugoslavia",
+                "type": "internal",
+                "page": "Socialist Federal Republic of Yugoslavia"
+              }
+            ]
+          },
           "office": {
             "text": "Minister of Environmental Protection",
             "links": [
@@ -121,9 +150,6 @@
               }
             ]
           },
-          "native_name": {
-            "text": "Ирена Вујовић"
-          },
           "alma_mater": {
             "text": "Megatrend University",
             "links": [
@@ -132,12 +158,6 @@
                 "page": "Megatrend University"
               }
             ]
-          },
-          "native_name_lang": {
-            "text": "sr"
-          },
-          "image": {
-            "text": "Irena Vujovic-mc.rs (cropped).jpg"
           },
           "termstart1": {
             "text": "4 June 2016"
@@ -157,23 +177,6 @@
               {
                 "type": "internal",
                 "page": "Serbian Progressive Party"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "April 3, 1983"
-          },
-          "birth_place": {
-            "text": "Belgrade, SFR Yugoslavia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Belgrade"
-              },
-              {
-                "text": "SFR Yugoslavia",
-                "type": "internal",
-                "page": "Socialist Federal Republic of Yugoslavia"
               }
             ]
           },

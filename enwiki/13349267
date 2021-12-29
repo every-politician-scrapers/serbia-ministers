@@ -690,6 +690,7 @@
           "isbn": "978-3-030-27693-5",
           "year": "2019",
           "page": "20",
+          "s2cid": "239278656",
           "template": "citation",
           "type": "book"
         },
@@ -816,6 +817,7 @@
           "doi": "10.2139/ssrn.3378017",
           "hdl-access": "free",
           "hdl": "2077/60177",
+          "s2cid": "159325131",
           "template": "citation",
           "type": "cite journal"
         },
@@ -905,9 +907,9 @@
           "archive-url": "https://web.archive.org/web/20181209000751/https://www.washingtonpost.com/national/thousands-march-against-serbian-presidents-autocratic-rule/2018/12/08/a7b93022-fb1b-11e8-8642-c9718a256cbd_story.html",
           "archive-date": "9 December 2018",
           "access-date": "12 December 2018",
-          "work": "The Washington Post",
+          "newspaper": "The Washington Post",
           "template": "citation",
-          "type": "cite web"
+          "type": "cite news"
         },
         {
           "last": "Eror",
@@ -973,9 +975,9 @@
           "title": "Serbia's prime minister just became president. What's wrong with this picture?",
           "url": "https://www.washingtonpost.com/news/monkey-cage/wp/2017/04/04/serbias-prime-minister-just-became-president-whats-wrong-with-this-picture/",
           "access-date": "18 November 2019",
-          "work": "The Washington Post",
+          "newspaper": "The Washington Post",
           "template": "citation",
-          "type": "cite web"
+          "type": "cite news"
         },
         {
           "date": "1 June 2017",
