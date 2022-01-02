@@ -716,28 +716,6 @@
             "text": "yes"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.danas.rs/danasrs/politika/vanja_udovicic_kandidat_naprednjaka.56.html?news_id=275515",
-          "title": "Vanja Udovičić kandidat naprednjaka",
-          "date": "31 January 2014",
-          "quote": "Na listi naprednjaka za gradske izbore 16. marta našla su se i dva člana Privremenog organa Beograda Siniša Mali i Goran Vesić, kao i nestranački ministar sporta i omladine u odlazećoj vladi Vanja Udovičić",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.b92.net/info/vesti/index.php?yyyy=2013&mm=08&dd=29&nav_category=11&nav_id=747618",
-          "title": "Ružić, Antić i Udovičić ministri",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]
