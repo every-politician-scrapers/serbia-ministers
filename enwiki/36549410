@@ -289,32 +289,6 @@
             "text": "sr"
           }
         }
-      ],
-      "references": [
-        {
-          "last": "srbija.gov.rs",
-          "title": "Nikola Selakovic",
-          "url": "https://www.srbija.gov.rs/biografija/en/162661/nikola-selakovic.php",
-          "access-date": "2020-11-04",
-          "website": "www.srbija.gov.rs",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "Minister of Foreign Affairs Nikola Selakovic",
-          "url": "http://www.mfa.gov.rs/en/about-the-ministry/minister/minister-biography",
-          "access-date": "2020-10-31",
-          "website": "www.mfa.gov.rs",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

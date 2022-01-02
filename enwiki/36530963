@@ -368,39 +368,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://nebojsastefanovic.rs/nebojsa-stefanovic-biografija/",
-          "title": "Биографија",
-          "date": "27 February 2013",
-          "work": "Небојша Стефановић",
-          "access-date": "2018-04-17",
-          "language": "en-US",
-          "archive-url": "https://web.archive.org/web/20180414010428/http://nebojsastefanovic.rs/nebojsa-stefanovic-biografija/",
-          "archive-date": "14 April 2018",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://www.parlament.gov.rs/national-assembly/the-assembly-1804-2018/multi-party-national-assembly-of-the-republic-of-serbia-(1991-2018).2174.html",
-          "title": "National Assembly of the Republic of Serbia {{!}} Multi-party National Assembly of the Republic of Serbia (1991–2018)",
-          "website": "www.parlament.gov.rs",
-          "access-date": "2018-04-17",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "srbija.gov.rs",
-          "title": "Примопредаја дужности у Министарству одбране и МУП-у",
-          "url": "https://www.srbija.gov.rs/vest/493792/primopredaja-duznosti-u-ministarstvu-odbrane-i-mup-u.php",
-          "access-date": "2020-10-30",
-          "website": "www.srbija.gov.rs",
-          "language": "sr",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
