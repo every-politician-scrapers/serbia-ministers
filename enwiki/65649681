@@ -110,15 +110,6 @@
           "birth_date": {
             "text": "1958 (age 64)"
           },
-          "party": {
-            "text": "Serbian Patriotic Alliance",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Serbian Patriotic Alliance"
-              }
-            ]
-          },
           "native_name_lang": {
             "text": "sr"
           },
