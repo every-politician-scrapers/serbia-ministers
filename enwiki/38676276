@@ -42,17 +42,17 @@
         {
           "sentences": [
             {
-              "text": "He previously served as the Minister of Labour, Employment, Veteran and Social Policy of Serbia from April 2014 to June 2017.",
+              "text": "He previously served as the Minister of Labour, Employment, Veteran and Social Policy from April 2014 to June 2017.",
               "links": [
                 {
-                  "text": "Minister of Labour, Employment, Veteran and Social Policy of Serbia",
+                  "text": "Minister of Labour, Employment, Veteran and Social Policy",
                   "type": "internal",
                   "page": "Ministry of Labour, Employment, Veteran and Social Policy (Serbia)"
                 }
               ]
             },
             {
-              "text": "He also served as director of the Office for Kosovo and Metohija from July 2012 to September 2013, and Minister without portfolio in the Government of Serbia in charge of Kosovo and Metohija from September 2013 to April 2014 as well as the Minister of Defence of Serbia from 29 June 2017 to 28 October 2020.",
+              "text": "He also served as director of the Office for Kosovo and Metohija from July 2012 to September 2013, and Minister without portfolio in the Government of Serbia in charge of Kosovo and Metohija from September 2013 to April 2014 as well as the Minister of Defence from 29 June 2017 to 28 October 2020.",
               "links": [
                 {
                   "type": "internal",
@@ -60,12 +60,17 @@
                 },
                 {
                   "type": "internal",
-                  "page": "Kosovo and Metohija"
+                  "page": "Government of Serbia"
                 },
                 {
-                  "text": "Minister of Defence of Serbia",
+                  "text": "Kosovo and Metohija",
                   "type": "internal",
-                  "page": "Minister of Defence (Serbia)"
+                  "page": "Autonomous Province of Kosovo and Metohija"
+                },
+                {
+                  "text": "Minister of Defence",
+                  "type": "internal",
+                  "page": "Ministry of Defence (Serbia)"
                 }
               ]
             },
@@ -79,6 +84,11 @@
                 {
                   "type": "internal",
                   "page": "Slobodan Milošević"
+                },
+                {
+                  "text": "JUL",
+                  "type": "internal",
+                  "page": "Yugoslav Left"
                 }
               ]
             }
