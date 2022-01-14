@@ -306,6 +306,10 @@
       ],
       "templates": [
         {
+          "small": "yes",
+          "template": "pp-semi"
+        },
+        {
           "description": "President of Serbia",
           "template": "short description"
         },
