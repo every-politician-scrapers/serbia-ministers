@@ -140,7 +140,14 @@
             "text": "28 October 2020"
           },
           "office": {
-            "text": "Minister of Families and Demographics"
+            "text": "Minister of Families and Demographics",
+            "links": [
+              {
+                "text": "Minister of Families and Demographics",
+                "type": "internal",
+                "page": "Ministry of Family Welfare and Demography (Serbia)"
+              }
+            ]
           }
         }
       ]
