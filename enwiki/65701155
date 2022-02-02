@@ -95,7 +95,7 @@
             ]
           },
           "birth_place": {
-            "text": "Trstenik, SR Serbia, SFR Yugoslavia",
+            "text": "Trstenik, PR Serbia, FPR Yugoslavia",
             "links": [
               {
                 "text": "Trstenik",
@@ -104,10 +104,10 @@
               },
               {
                 "type": "internal",
-                "page": "SR Serbia"
+                "page": "PR Serbia"
               },
               {
-                "text": "SFR Yugoslavia",
+                "text": "FPR Yugoslavia",
                 "type": "internal",
                 "page": "Socialist Federal Republic of Yugoslavia"
               }
