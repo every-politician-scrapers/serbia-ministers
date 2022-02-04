@@ -194,18 +194,20 @@
             ]
           },
           "party": {
-            "text": "Serbian Progressive Party\n(2015–present) Democratic Party\n(2010–2011)\nDemocratic Party of Serbia\n(until 2008)",
+            "text": "SNS (2015–present)\nDS (2010–2011)\nDSS (until 2008)",
             "links": [
               {
+                "text": "SNS",
                 "type": "internal",
                 "page": "Serbian Progressive Party"
               },
               {
-                "text": "Democratic Party",
+                "text": "DS",
                 "type": "internal",
                 "page": "Democratic Party (Serbia)"
               },
               {
+                "text": "DSS",
                 "type": "internal",
                 "page": "Democratic Party of Serbia"
               }
