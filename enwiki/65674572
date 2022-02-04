@@ -20,7 +20,7 @@
         {
           "sentences": [
             {
-              "text": "Tomislav Momirović (born 17 October 1983), more commonly known as Toma Mona, is a Serbian businessman and politician who is the CEO of the Mona Hotel Management, one of the biggest enterprises in Serbia.",
+              "text": "Tomislav Momirović (born 17 October 1983) is a Serbian businessman and politician who is the CEO of the Mona Hotel Management, one of the biggest enterprises in Serbia.",
               "links": [
                 {
                   "type": "internal",
@@ -29,8 +29,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Tomislav Momirović",
-                  "Toma Mona"
+                  "Tomislav Momirović"
                 ]
               }
             },
