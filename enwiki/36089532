@@ -22,15 +22,11 @@
         {
           "sentences": [
             {
-              "text": "Jorgovanka Tabaković (born 21 March 1960) is a Serbian politician serving as the current governor of the National Bank of Serbia as well as the current deputy president of the Serbian Progressive Party.",
+              "text": "Jorgovanka Tabaković (born 21 March 1960) is a Serbian politician who has been the governor of the National Bank of Serbia since 2012.",
               "links": [
                 {
                   "type": "internal",
                   "page": "National Bank of Serbia"
-                },
-                {
-                  "type": "internal",
-                  "page": "Serbian Progressive Party"
                 }
               ],
               "formatting": {
@@ -38,6 +34,15 @@
                   "Jorgovanka Tabaković"
                 ]
               }
+            },
+            {
+              "text": "A member of the Serbian Progressive Party (SNS), she has been the deputy president since 2012.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Serbian Progressive Party"
+                }
+              ]
             }
           ]
         }
