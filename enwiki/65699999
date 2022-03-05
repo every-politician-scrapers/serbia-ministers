@@ -19,7 +19,7 @@
         {
           "sentences": [
             {
-              "text": "Darija Kisić Tepavčević (born 20 August 1975) is a Serbian doctor, epidemiologist and politician who is currently serving as the Minister of Labour, Employment, Veteran and Social Policy in the Government of Serbia since 28 October 2020.",
+              "text": "Darija Kisić (born 20 August 1975) is a Serbian doctor, epidemiologist and politician who is currently serving as the Minister of Labour, Employment, Veteran and Social Policy in the Government of Serbia since 28 October 2020.",
               "links": [
                 {
                   "text": "epidemiologist",
@@ -38,7 +38,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Darija Kisić Tepavčević"
+                  "Darija Kisić"
                 ]
               }
             },
@@ -73,7 +73,7 @@
         },
         {
           "list": [
-            "Дарија Кисић Тепавчевић"
+            "Дарија Кисић"
           ],
           "template": "lang-sr-cyrl"
         }
@@ -81,7 +81,7 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Darija Kisić Tepavčević"
+            "text": "Darija Kisić"
           },
           "alma_mater": {
             "text": "University of Belgrade",
@@ -158,7 +158,7 @@
             ]
           },
           "native_name": {
-            "text": "Дарија Кисић Тепавчевић"
+            "text": "Дарија Кисић"
           },
           "profession": {
             "text": "Epidemiologist"
