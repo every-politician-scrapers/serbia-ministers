@@ -1,312 +1,38 @@
 {
-  "title": "Milan Krkobabić",
-  "pageID": 58005881,
-  "categories": [
-    "1952 births",
-    "Living people",
-    "People from Kačarevo",
-    "Politicians from Belgrade",
-    "Members of the National Assembly of Serbia",
-    "Members of the City Assembly of Belgrade",
-    "Government ministers of Serbia",
-    "Party of United Pensioners of Serbia politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Milan Krkobabić (born 12 October 1952) is a Serbian politician.",
-              "formatting": {
-                "bold": [
-                  "Milan Krkobabić"
-                ]
-              }
-            },
-            {
-              "text": "He has been the president of the Party of United Pensioners of Serbia (PUPS) since 2014 and has served as a minister in the government of Serbia since 2016.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Party of United Pensioners of Serbia"
-                },
-                {
-                  "text": "government of Serbia",
-                  "type": "internal",
-                  "page": "government of Serbia"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Serbian politician",
-          "template": "short description"
-        },
-        {
-          "year": "1952",
-          "month": "10",
-          "day": "12",
-          "df": "yes",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "Милан Кркобабић"
-          ],
-          "template": "lang-sr-cyr"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Milan Krkobabić"
-          },
-          "native_name": {
-            "text": "Милан Кркобабић"
-          },
-          "office1": {
-            "text": "Leader of the Party of United Pensioners of Serbia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Party of United Pensioners of Serbia"
-              }
-            ]
-          },
-          "termstart1": {
-            "text": "June 2014"
-          },
-          "predecessor1": {
-            "text": "Jovan Krkobabić",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jovan Krkobabić"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of Rural Welfare",
-            "links": [
-              {
-                "text": "Minister of Rural Welfare",
-                "type": "internal",
-                "page": "Ministry of Rural Welfare (Serbia)"
-              }
-            ]
-          },
-          "termstart2": {
-            "text": "28 October 2020"
-          },
-          "primeminister2": {
-            "text": "Ana Brnabić",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ana Brnabić"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Office established"
-          },
-          "office3": {
-            "text": "Minister without portfolio\nin charge of Regional development",
-            "links": [
-              {
-                "text": "Minister without portfolio",
-                "type": "internal",
-                "page": "Minister without portfolio (Serbia)"
-              }
-            ]
-          },
-          "termstart3": {
-            "text": "11 August 2016"
-          },
-          "termend3": {
-            "text": "28 October 2020"
-          },
-          "primeminister3": {
-            "text": "Aleksandar Vučić\nIvica Dačić (Acting)\nAna Brnabić",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Aleksandar Vučić"
-              },
-              {
-                "type": "internal",
-                "page": "Ivica Dačić"
-              },
-              {
-                "type": "internal",
-                "page": "Ana Brnabić"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Member of the National Assembly of Serbia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "National Assembly of Serbia"
-              }
-            ]
-          },
-          "termstart4": {
-            "text": "3 August 2020"
-          },
-          "termend4": {
-            "text": "26 October 2020"
-          },
-          "termstart5": {
-            "text": "31 May 2012"
-          },
-          "termend5": {
-            "text": "11 August 2016"
-          },
-          "office6": {
-            "text": "Director of Pošta Srbije",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pošta Srbije"
-              }
-            ]
-          },
-          "termstart6": {
-            "text": "2012",
-            "number": 2012
-          },
-          "termend6": {
-            "text": "2016",
-            "number": 2016
-          },
-          "predecessor6": {
-            "text": "Goran Ćirić",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Goran Ćirić"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "Mira Petrović (Acting)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mira Petrović"
-              }
-            ]
-          },
-          "office7": {
-            "text": "Deputy Mayor of Belgrade",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Belgrade"
-              }
-            ]
-          },
-          "termstart7": {
-            "text": "2008",
-            "number": 2008
-          },
-          "termend7": {
-            "text": "2012",
-            "number": 2012
-          },
-          "predecessor7": {
-            "text": "position vacant",
-            "formatting": {
-              "italic": [
-                "position vacant"
-              ]
-            }
-          },
-          "successor7": {
-            "text": "Tatjana Pešić"
-          },
-          "birth_date": {
-            "text": "October 12, 1952"
-          },
-          "birth_place": {
-            "text": "Kačarevo, PR Serbia, FPR Yugoslavia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kačarevo"
-              },
-              {
-                "text": "PR Serbia",
-                "type": "internal",
-                "page": "People's Republic of Serbia"
-              },
-              {
-                "text": "FPR Yugoslavia",
-                "type": "internal",
-                "page": "Federal People's Republic of Yugoslavia"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Serbian",
-            "links": [
-              {
-                "text": "Serbian",
-                "type": "internal",
-                "page": "Serbs"
-              }
-            ]
-          },
-          "party": {
-            "text": "PUPS",
-            "links": [
-              {
-                "text": "PUPS",
-                "type": "internal",
-                "page": "Party of United Pensioners of Serbia"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Belgrade",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Belgrade"
-              }
-            ]
-          },
-          "image": {
-            "text": "Milan Krkobabic-mc.rs (cropped).jpg"
-          },
-          "children": {
-            "text": "Stefan Krkobabić",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Stefan Krkobabić"
-              }
-            ]
-          },
-          "parents": {
-            "text": "Jovan Krkobabić",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jovan Krkobabić"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Milan Krkobabić",
+  "native_name": "Милан Кркобабић",
+  "office1": "Leader of the Party of United Pensioners of Serbia",
+  "termstart1": "June 2014",
+  "predecessor1": "Jovan Krkobabić",
+  "office2": "Minister of Rural Welfare",
+  "termstart2": "28 October 2020",
+  "primeminister2": "Ana Brnabić",
+  "predecessor2": "Office established",
+  "office3": "Minister without portfolio\nin charge of Regional development",
+  "termstart3": "11 August 2016",
+  "termend3": "28 October 2020",
+  "primeminister3": "Aleksandar Vučić\nIvica Dačić (Acting)\nAna Brnabić",
+  "office4": "Member of the National Assembly of Serbia",
+  "termstart4": "3 August 2020",
+  "termend4": "26 October 2020",
+  "termstart5": "31 May 2012",
+  "termend5": "11 August 2016",
+  "office6": "Director of Pošta Srbije",
+  "termstart6": "2012",
+  "termend6": "2016",
+  "predecessor6": "Goran Ćirić",
+  "successor6": "Mira Petrović (Acting)",
+  "office7": "Deputy Mayor of Belgrade",
+  "termstart7": "2008",
+  "termend7": "2012",
+  "predecessor7": "position vacant",
+  "successor7": "Tatjana Pešić",
+  "birth_date": "October 12, 1952",
+  "birth_place": "Kačarevo, PR Serbia, FPR Yugoslavia",
+  "nationality": "Serbian",
+  "party": "PUPS",
+  "alma_mater": "University of Belgrade",
+  "image": "Milan Krkobabic-mc.rs (cropped).jpg",
+  "children": "Stefan Krkobabić",
+  "parents": "Jovan Krkobabić"
 }

@@ -1,156 +1,17 @@
 {
-  "title": "Ratko Dmitrović",
-  "pageID": 65649681,
-  "categories": [
-    "1958 births",
-    "Living people",
-    "Serbs of Croatia",
-    "Serbian journalists",
-    "University of Belgrade alumni",
-    "University of Zagreb alumni",
-    "Government ministers of Serbia",
-    "Serbian nationalists"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Radomir \"Ratko\" Dmitrović (: born 1958) is a Serbian conservative journalist, publicist and politician serving as the minister of Families and Demographics since 28 October 2020.",
-              "links": [
-                {
-                  "text": "Serbian",
-                  "type": "internal",
-                  "page": "Serbia"
-                },
-                {
-                  "text": "conservative",
-                  "type": "internal",
-                  "page": "Conservatism in Serbia"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Radomir \"Ratko\" Dmitrović"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Serbian journalist and politician",
-          "template": "short description"
-        },
-        {
-          "birth_year": "1958",
-          "template": "birth year and age"
-        },
-        {
-          "list": [
-            "Радомир \"Ратко\" Дмитровић"
-          ],
-          "template": "lang-sr-cyrl"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Ratko Dmitrović"
-          },
-          "image": {
-            "text": "Ratko Dmitrovic-mc.rs (cropped).jpg"
-          },
-          "caption": {
-            "text": "Dmitrović in 2013"
-          },
-          "alma_mater": {
-            "text": "University of Belgrade University of Zagreb",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Belgrade"
-              },
-              {
-                "type": "internal",
-                "page": "University of Zagreb"
-              }
-            ]
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          },
-          "nationality": {
-            "text": "Serbian"
-          },
-          "birth_place": {
-            "text": "Komogovina, SR Croatia, SFR Yugoslavia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Komogovina"
-              },
-              {
-                "text": "SR Croatia",
-                "type": "internal",
-                "page": "Socialist Republic of Croatia"
-              },
-              {
-                "text": "SFR Yugoslavia",
-                "type": "internal",
-                "page": "Socialist Federal Republic of Yugoslavia"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "1958 (age 64)"
-          },
-          "native_name_lang": {
-            "text": "sr"
-          },
-          "native_name": {
-            "text": "Ратко Дмитровић"
-          },
-          "occupation": {
-            "text": "Journalist, politician"
-          },
-          "predecessor": {
-            "text": "Position established",
-            "formatting": {
-              "italic": [
-                "Position established"
-              ]
-            }
-          },
-          "primeminister": {
-            "text": "Ana Brnabić",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ana Brnabić"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "28 October 2020"
-          },
-          "office": {
-            "text": "Minister of Families and Demographics",
-            "links": [
-              {
-                "text": "Minister of Families and Demographics",
-                "type": "internal",
-                "page": "Ministry of Family Welfare and Demography (Serbia)"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Ratko Dmitrović",
+  "image": "Ratko Dmitrovic-mc.rs (cropped).jpg",
+  "caption": "Dmitrović in 2013",
+  "alma_mater": "University of Belgrade University of Zagreb",
+  "children": "2",
+  "nationality": "Serbian",
+  "birth_place": "Komogovina, SR Croatia, SFR Yugoslavia",
+  "birth_date": "1958 (age 64)",
+  "native_name_lang": "sr",
+  "native_name": "Ратко Дмитровић",
+  "occupation": "Journalist, politician",
+  "predecessor": "Position established",
+  "primeminister": "Ana Brnabić",
+  "term_start": "28 October 2020",
+  "office": "Minister of Families and Demographics"
 }

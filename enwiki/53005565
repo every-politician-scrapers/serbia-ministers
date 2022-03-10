@@ -1,171 +1,19 @@
 {
-  "title": "Zlatibor Lončar",
-  "pageID": 53005565,
-  "categories": [
-    "1971 births",
-    "Living people",
-    "Physicians from Belgrade",
-    "Government ministers of Serbia",
-    "University of Belgrade Faculty of Medicine alumni",
-    "Politicians from Belgrade",
-    "Serbian Progressive Party politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Zlatibor Lončar is a Serbian doctor and politician serving as the Minister of Health in the Government of Serbia since 27 April 2014.",
-              "links": [
-                {
-                  "text": "Minister of Health",
-                  "type": "internal",
-                  "page": "Minister of Health (Serbia)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Government of Serbia"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Zlatibor Lončar"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Serbian doctor and politician",
-          "template": "short description"
-        },
-        {
-          "year": "1971",
-          "month": "08",
-          "day": "03",
-          "df": "yes",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "Златибор Лончар"
-          ],
-          "template": "lang-sr-cyr"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Zlatibor Lončar"
-          },
-          "native_name": {
-            "text": "Златибор Лончар"
-          },
-          "native_name_lang": {
-            "text": "sr"
-          },
-          "image": {
-            "text": "Zlatibor Lončar1.jpg"
-          },
-          "office": {
-            "text": "Minister of Health",
-            "links": [
-              {
-                "text": "Minister of Health",
-                "type": "internal",
-                "page": "Minister of Health (Serbia)"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Aleksandar Vučić\nIvica Dačić (Acting)\nAna Brnabić",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Aleksandar Vučić"
-              },
-              {
-                "type": "internal",
-                "page": "Ivica Dačić"
-              },
-              {
-                "type": "internal",
-                "page": "Ana Brnabić"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "27 April 2014"
-          },
-          "predecessor": {
-            "text": "Slavica Đukić Dejanović",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Slavica Đukić Dejanović"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "August 3, 1971"
-          },
-          "birth_place": {
-            "text": "Belgrade, SFR Yugoslavia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Belgrade"
-              },
-              {
-                "type": "internal",
-                "page": "SFR Yugoslavia"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Serbian"
-          },
-          "occupation": {
-            "text": "Doctor, politician"
-          },
-          "party": {
-            "text": "SNS",
-            "links": [
-              {
-                "text": "SNS",
-                "type": "internal",
-                "page": "Serbian Progressive Party"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Belgrade",
-            "links": [
-              {
-                "text": "University of Belgrade",
-                "type": "internal",
-                "page": "Faculty of Medicine, University of Belgrade"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Vesna Lončar"
-          },
-          "children": {
-            "text": "1",
-            "number": 1
-          },
-          "image_size": {
-            "text": "220",
-            "number": 220
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Zlatibor Lončar",
+  "native_name": "Златибор Лончар",
+  "native_name_lang": "sr",
+  "image": "Zlatibor Lončar1.jpg",
+  "office": "Minister of Health",
+  "primeminister": "Aleksandar Vučić\nIvica Dačić (Acting)\nAna Brnabić",
+  "term_start": "27 April 2014",
+  "predecessor": "Slavica Đukić Dejanović",
+  "birth_date": "August 3, 1971",
+  "birth_place": "Belgrade, SFR Yugoslavia",
+  "nationality": "Serbian",
+  "occupation": "Doctor, politician",
+  "party": "SNS",
+  "alma_mater": "University of Belgrade",
+  "spouse": "Vesna Lončar",
+  "children": "1",
+  "image_size": "220"
 }
