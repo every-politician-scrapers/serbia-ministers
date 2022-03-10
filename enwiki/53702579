@@ -1,298 +1,35 @@
 {
-  "title": "Gordana Čomić",
-  "pageID": 53702579,
-  "categories": [
-    "1958 births",
-    "Living people",
-    "Politicians from Novi Sad",
-    "Serbian women in politics",
-    "Members of the National Assembly of Serbia",
-    "Deputy Members of the South-East European Cooperation Process Parliamentary Assembly",
-    "Members of the Parliamentary Assembly of the Organization for Security and Co-operation in Europe",
-    "Democratic Party (Serbia) politicians",
-    "Members of the Assembly of Vojvodina"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Gordana Čomić is a Serbian politician.",
-              "formatting": {
-                "bold": [
-                  "Gordana Čomić"
-                ]
-              }
-            },
-            {
-              "text": "She served in the National Assembly of Serbia from 2001 to 2020 and is now the Minister for Human and Minority Rights and Social Dialogue in the cabinet of Ana Brnabić.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "National Assembly of Serbia"
-                },
-                {
-                  "text": "Minister for Human and Minority Rights and Social Dialogue",
-                  "type": "internal",
-                  "page": "Ministry of Human and Minority Rights and Social Dialogue (Serbia)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Ana Brnabić"
-                }
-              ]
-            },
-            {
-              "text": "A former and long-time member of the Democratic Party, she was excluded from the party from opposing its boycott of the 2020 Serbian parliamentary election.",
-              "links": [
-                {
-                  "text": "Democratic Party",
-                  "type": "internal",
-                  "page": "Democratic Party (Serbia)"
-                },
-                {
-                  "text": "2020 Serbian parliamentary election",
-                  "type": "internal",
-                  "page": "2020 Serbian parliamentary election"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Serbian politician",
-          "template": "short description"
-        },
-        {
-          "date": "August 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1958",
-          "month": "6",
-          "day": "16",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "Гордана Чомић; born 16 June 1958"
-          ],
-          "template": "lang-sr-cyr"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Gordana Čomić"
-          },
-          "native_name": {
-            "text": "Гордана Чомић"
-          },
-          "native_name_lang": {
-            "text": "sr"
-          },
-          "image": {
-            "text": "Gordana Čomić - May 2015 (cropped).jpg"
-          },
-          "caption": {
-            "text": "Čomić in 2015"
-          },
-          "office1": {
-            "text": "Vice President of the National Assembly of Serbia",
-            "links": [
-              {
-                "text": "National Assembly of Serbia",
-                "type": "internal",
-                "page": "National Assembly (Serbia)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "26 June 2008"
-          },
-          "term_end1": {
-            "text": "3 August 2020"
-          },
-          "term_start2": {
-            "text": "22 January 2001"
-          },
-          "term_end2": {
-            "text": "27 January 2004"
-          },
-          "office3": {
-            "text": "Member of the National Assembly of Serbia",
-            "links": [
-              {
-                "text": "National Assembly of Serbia",
-                "type": "internal",
-                "page": "National Assembly (Serbia)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "22 January 2001"
-          },
-          "term_end3": {
-            "text": "3 August 2020"
-          },
-          "office4": {
-            "text": "Member of the Assembly of Vojvodina (Novi Sad Division 10)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Assembly of Vojvodina"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "23 October 2000"
-          },
-          "term_end4": {
-            "text": "30 October 2004"
-          },
-          "predecessor4": {
-            "text": "Lazar Slepčev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lazar Slepčev"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "redistribution"
-          },
-          "office5": {
-            "text": "Member of the Assembly of Vojvodina (Novi Sad Division 13)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Assembly of Vojvodina"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "9 January 1997"
-          },
-          "term_end5": {
-            "text": "23 October 2000"
-          },
-          "predecessor5": {
-            "text": "Stevan Vrbaški",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Stevan Vrbaški"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Aleksandar Jevtić",
-            "links": [
-              {
-                "text": "Aleksandar Jevtić",
-                "type": "internal",
-                "page": "Aleksandar Jevtić (politician)"
-              }
-            ]
-          },
-          "birth_place": {
-            "text": "Novi Sad, SFR Yugoslavia\n(now Serbia)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Novi Sad"
-              },
-              {
-                "type": "internal",
-                "page": "SFR Yugoslavia"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "June 16, 1958"
-          },
-          "occupation": {
-            "text": "Politician"
-          },
-          "party": {
-            "text": "Democratic Party\n(1990–2020) Independent\n(2020–present)",
-            "links": [
-              {
-                "text": "Democratic Party",
-                "type": "internal",
-                "page": "Democratic Party (Serbia)"
-              },
-              {
-                "text": "Independent",
-                "type": "internal",
-                "page": "Independent Politician"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Serbian",
-            "links": [
-              {
-                "text": "Serbian",
-                "type": "internal",
-                "page": "Serbs"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Novi Sad",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Novi Sad"
-              }
-            ]
-          },
-          "office": {
-            "text": "Minister for Human and Minority Rights and Social Dialogue",
-            "links": [
-              {
-                "text": "Minister for Human and Minority Rights and Social Dialogue",
-                "type": "internal",
-                "page": "Ministry of Human and Minority Rights (Serbia)"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Ana Brnabić",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ana Brnabić"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "28 October 2020"
-          },
-          "predecessor": {
-            "text": "Position established Svetozar Čiplić (2011)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Svetozar Čiplić"
-              }
-            ],
-            "formatting": {
-              "italic": [
-                "Position established"
-              ]
-            }
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Gordana Čomić",
+  "native_name": "Гордана Чомић",
+  "native_name_lang": "sr",
+  "image": "Gordana Čomić - May 2015 (cropped).jpg",
+  "caption": "Čomić in 2015",
+  "office1": "Vice President of the National Assembly of Serbia",
+  "term_start1": "26 June 2008",
+  "term_end1": "3 August 2020",
+  "term_start2": "22 January 2001",
+  "term_end2": "27 January 2004",
+  "office3": "Member of the National Assembly of Serbia",
+  "term_start3": "22 January 2001",
+  "term_end3": "3 August 2020",
+  "office4": "Member of the Assembly of Vojvodina (Novi Sad Division 10)",
+  "term_start4": "23 October 2000",
+  "term_end4": "30 October 2004",
+  "predecessor4": "Lazar Slepčev",
+  "successor4": "redistribution",
+  "office5": "Member of the Assembly of Vojvodina (Novi Sad Division 13)",
+  "term_start5": "9 January 1997",
+  "term_end5": "23 October 2000",
+  "predecessor5": "Stevan Vrbaški",
+  "successor5": "Aleksandar Jevtić",
+  "birth_place": "Novi Sad, SFR Yugoslavia\n(now Serbia)",
+  "birth_date": "June 16, 1958",
+  "occupation": "Politician",
+  "party": "Democratic Party\n(1990–2020) Independent\n(2020–present)",
+  "nationality": "Serbian",
+  "alma_mater": "University of Novi Sad",
+  "office": "Minister for Human and Minority Rights and Social Dialogue",
+  "primeminister": "Ana Brnabić",
+  "term_start": "28 October 2020",
+  "predecessor": "Position established Svetozar Čiplić (2011)"
 }

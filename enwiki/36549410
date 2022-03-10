@@ -1,295 +1,32 @@
 {
-  "title": "Nikola Selaković",
-  "pageID": 36549410,
-  "categories": [
-    "1983 births",
-    "Living people",
-    "Politicians from Užice",
-    "University of Belgrade Faculty of Law alumni",
-    "Government ministers of Serbia",
-    "Serbian Progressive Party politicians",
-    "Serbian Radical Party politicians",
-    "Foreign ministers of Serbia",
-    "Serbian nationalists",
-    "Justice ministers of Serbia"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Nikola Selaković (,, born April 30, 1983) is a Serbian politician who is currently serving as the Minister of Foreign Affairs of Serbia since 28 October 2020.",
-              "links": [
-                {
-                  "text": "Minister of Foreign Affairs of Serbia",
-                  "type": "internal",
-                  "page": "Ministry of Foreign Affairs (Serbia)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Nikola Selaković"
-                ]
-              }
-            },
-            {
-              "text": "He served as the Presidency Secretary of the President of Serbia Aleksandar Vučić from 2017 to 2020 and as the Minister of Justice in the Government of Serbia from 2012 to 2016.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "President of Serbia"
-                },
-                {
-                  "type": "internal",
-                  "page": "Aleksandar Vučić"
-                },
-                {
-                  "text": "Minister of Justice",
-                  "type": "internal",
-                  "page": "Ministry of Justice (Serbia)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Government of Serbia"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Serbian lawyer and politician",
-          "template": "short description"
-        },
-        {
-          "list": [
-            "the Serbian rower",
-            "Nikola Selaković (rower)"
-          ],
-          "template": "for"
-        },
-        {
-          "year": "1983",
-          "month": "4",
-          "day": "30",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "Никола Селаковић"
-          ],
-          "template": "lang-sr-cyr"
-        },
-        {
-          "transcription": "nǐkola sêlaːkoʋitɕ",
-          "template": "ipa"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Nikola Selaković"
-          },
-          "image": {
-            "text": "Außenminister Alexander Schallenberg empfängt seinen serbischen Amtskollegen Nikola Selakovic 16.07.2021 05 (cropped).jpg"
-          },
-          "image_size": {
-            "text": "200px"
-          },
-          "office": {
-            "text": "Minister of Foreign Affairs",
-            "links": [
-              {
-                "text": "Minister of Foreign Affairs",
-                "type": "internal",
-                "page": "Ministry of Foreign Affairs (Serbia)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "28 October 2020"
-          },
-          "primeminister": {
-            "text": "Ana Brnabić",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ana Brnabić"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Ana Brnabić (acting) Ivica Dačić",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ana Brnabić"
-              },
-              {
-                "type": "internal",
-                "page": "Ivica Dačić"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Justice",
-            "links": [
-              {
-                "text": "Minister of Justice",
-                "type": "internal",
-                "page": "Ministry of Justice (Serbia)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "27 April 2014"
-          },
-          "term_end1": {
-            "text": "11 August 2016"
-          },
-          "primeminister1": {
-            "text": "Aleksandar Vučić",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Aleksandar Vučić"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Nikola Selaković"
-          },
-          "successor1": {
-            "text": "Nela Kuburović"
-          },
-          "office2": {
-            "text": "Minister of Justice and Public Administration",
-            "links": [
-              {
-                "text": "Minister of Justice and Public Administration",
-                "type": "internal",
-                "page": "Ministry of Justice (Serbia)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "27 July 2012"
-          },
-          "term_end2": {
-            "text": "27 April 2014"
-          },
-          "primeminister2": {
-            "text": "Ivica Dačić",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ivica Dačić"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Snežana Malović Milan Marković (Public Administration)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Snežana Malović"
-              },
-              {
-                "type": "internal",
-                "page": "Milan Marković"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Nikola Selaković Kori Udovički (Public Administration)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kori Udovički"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "April 30, 1983"
-          },
-          "birth_place": {
-            "text": "Titovo Užice, SR Serbia, Yugoslavia",
-            "links": [
-              {
-                "text": "Titovo Užice",
-                "type": "internal",
-                "page": "Užice"
-              },
-              {
-                "type": "internal",
-                "page": "SR Serbia"
-              },
-              {
-                "text": "Yugoslavia",
-                "type": "internal",
-                "page": "SFR Yugoslavia"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Serbian"
-          },
-          "party": {
-            "text": "SRS (2001–2008)\nSNS (2008–present)",
-            "links": [
-              {
-                "text": "SRS",
-                "type": "internal",
-                "page": "Serbian Radical Party"
-              },
-              {
-                "text": "SNS",
-                "type": "internal",
-                "page": "Serbian Progressive Party"
-              }
-            ]
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          },
-          "residence": {
-            "text": "Belgrade, Serbia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Belgrade"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Belgrade Faculty of Law",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Belgrade Faculty of Law"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Politician"
-          },
-          "profession": {
-            "text": "Lawyer"
-          },
-          "native_name": {
-            "text": "Никола Селаковић"
-          },
-          "native_name_lang": {
-            "text": "sr"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Nikola Selaković",
+  "image": "Außenminister Alexander Schallenberg empfängt seinen serbischen Amtskollegen Nikola Selakovic 16.07.2021 05 (cropped).jpg",
+  "image_size": "200px",
+  "office": "Minister of Foreign Affairs",
+  "term_start": "28 October 2020",
+  "primeminister": "Ana Brnabić",
+  "predecessor": "Ana Brnabić (acting) Ivica Dačić",
+  "office1": "Minister of Justice",
+  "term_start1": "27 April 2014",
+  "term_end1": "11 August 2016",
+  "primeminister1": "Aleksandar Vučić",
+  "predecessor1": "Nikola Selaković",
+  "successor1": "Nela Kuburović",
+  "office2": "Minister of Justice and Public Administration",
+  "term_start2": "27 July 2012",
+  "term_end2": "27 April 2014",
+  "primeminister2": "Ivica Dačić",
+  "predecessor2": "Snežana Malović Milan Marković (Public Administration)",
+  "successor2": "Nikola Selaković Kori Udovički (Public Administration)",
+  "birth_date": "April 30, 1983",
+  "birth_place": "Titovo Užice, SR Serbia, Yugoslavia",
+  "nationality": "Serbian",
+  "party": "SRS (2001–2008)\nSNS (2008–present)",
+  "children": "3",
+  "residence": "Belgrade, Serbia",
+  "alma_mater": "University of Belgrade Faculty of Law",
+  "occupation": "Politician",
+  "profession": "Lawyer",
+  "native_name": "Никола Селаковић",
+  "native_name_lang": "sr"
 }

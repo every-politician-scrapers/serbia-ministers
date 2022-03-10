@@ -1,193 +1,22 @@
 {
-  "title": "Irena Vujović",
-  "pageID": 64488338,
-  "categories": [
-    "Serbian women in politics",
-    "1983 births",
-    "Politicians from Belgrade",
-    "Serbian Progressive Party politicians",
-    "Serbian people of Montenegrin descent",
-    "Living people",
-    "Megatrend University alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Irena Vujović (born 3 April 1983) is a Serbian politician who currently serves as the Minister of Environmental Protection in the Government of Serbia since 28 October 2020.",
-              "links": [
-                {
-                  "text": "Minister of Environmental Protection",
-                  "type": "internal",
-                  "page": "Ministry of Environmental Protection (Serbia)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Government of Serbia"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Irena Vujović"
-                ]
-              }
-            },
-            {
-              "text": "Previously, she served as the President of the Savski Venac Municipality from 2016 to 2020.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Savski Venac"
-                }
-              ]
-            },
-            {
-              "text": "She is a member of the presidency of the Serbian Progressive Party.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Serbian Progressive Party"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "July 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1983",
-          "month": "4",
-          "day": "3",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "Ирена Вујовић"
-          ],
-          "template": "lang-sr-cyrl"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Irena Vujović"
-          },
-          "native_name": {
-            "text": "Ирена Вујовић"
-          },
-          "native_name_lang": {
-            "text": "sr"
-          },
-          "image": {
-            "text": "Irena Vujovic-mc.rs (cropped).jpg"
-          },
-          "caption": {
-            "text": "Vujović in 2018"
-          },
-          "birth_date": {
-            "text": "April 3, 1983"
-          },
-          "birth_place": {
-            "text": "Belgrade, SFR Yugoslavia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Belgrade"
-              },
-              {
-                "text": "SFR Yugoslavia",
-                "type": "internal",
-                "page": "Socialist Federal Republic of Yugoslavia"
-              }
-            ]
-          },
-          "office": {
-            "text": "Minister of Environmental Protection",
-            "links": [
-              {
-                "text": "Minister of Environmental Protection",
-                "type": "internal",
-                "page": "Ministry of Environmental Protection (Serbia)"
-              }
-            ]
-          },
-          "termstart": {
-            "text": "28 October 2020"
-          },
-          "primeminister": {
-            "text": "Ana Brnabić",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ana Brnabić"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Goran Trivan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Goran Trivan"
-              }
-            ]
-          },
-          "office1": {
-            "text": "President of the Savski Venac Municipality",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Savski Venac"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Megatrend University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Megatrend University"
-              }
-            ]
-          },
-          "termstart1": {
-            "text": "4 June 2016"
-          },
-          "termend1": {
-            "text": "4 September 2020"
-          },
-          "predecessor1": {
-            "text": "Dušan Dinčić"
-          },
-          "successor1": {
-            "text": "Miloš Vidović"
-          },
-          "party": {
-            "text": "Serbian Progressive Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Serbian Progressive Party"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Serbian"
-          },
-          "occupation": {
-            "text": "Politician"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Irena Vujović",
+  "native_name": "Ирена Вујовић",
+  "native_name_lang": "sr",
+  "image": "Irena Vujovic-mc.rs (cropped).jpg",
+  "caption": "Vujović in 2018",
+  "birth_date": "April 3, 1983",
+  "birth_place": "Belgrade, SFR Yugoslavia",
+  "office": "Minister of Environmental Protection",
+  "termstart": "28 October 2020",
+  "primeminister": "Ana Brnabić",
+  "predecessor": "Goran Trivan",
+  "office1": "President of the Savski Venac Municipality",
+  "alma_mater": "Megatrend University",
+  "termstart1": "4 June 2016",
+  "termend1": "4 September 2020",
+  "predecessor1": "Dušan Dinčić",
+  "successor1": "Miloš Vidović",
+  "party": "Serbian Progressive Party",
+  "nationality": "Serbian",
+  "occupation": "Politician"
 }
