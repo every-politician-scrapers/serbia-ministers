@@ -2,6 +2,10 @@
   "name": "Gordana Čomić",
   "native_name": "Гордана Чомић",
   "native_name_lang": "sr",
+  "office": "Minister for Human and Minority Rights and Social Dialogue",
+  "primeminister": "Ana Brnabić",
+  "term_start": "28 October 2020",
+  "predecessor": "Position re-established Milan Marković (2011–12)",
   "office1": "Vice President of the National Assembly of the Republic of Serbia",
   "term_start1": "26 June 2008",
   "term_end1": "3 August 2020",
@@ -25,9 +29,5 @@
   "occupation": "Politician",
   "party": "Democratic Party\n(1990–2020) Independent\n(2020–present)",
   "nationality": "Serbian",
-  "alma_mater": "University of Novi Sad",
-  "office": "Minister for Human and Minority Rights and Social Dialogue",
-  "primeminister": "Ana Brnabić",
-  "term_start": "28 October 2020",
-  "predecessor": "Position established Svetozar Čiplić (2011)"
+  "alma_mater": "University of Novi Sad"
 }
