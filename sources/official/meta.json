@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Serbia",
+      "id": "Q403"
+    },
+    "cabinet": {
+      "id": "Q100858235",
+      "start": "2020-10-28",
+      "parent": "Q30301644"
+    },
+    "source": {
+        "url":   "https://www.srbija.gov.rs/sastav/en/10/members-of-government.php",
+        "title": "Members of Government",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/serbia-ministers"
+}
