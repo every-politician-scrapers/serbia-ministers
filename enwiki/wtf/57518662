@@ -1,0 +1,144 @@
+{
+  "title": "Ivan Todorov (judoka)",
+  "pageID": 57518662,
+  "categories": [
+    "1967 births",
+    "Living people",
+    "Yugoslav male judoka",
+    "Olympic judoka of Yugoslavia",
+    "Judoka at the 1988 Summer Olympics",
+    "Place of birth missing (living people)",
+    "Ambassadors of Serbia to Hungary"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ivan Todorov (born 7 October 1967) is a Yugoslav judoka and Serbian diplomat.",
+              "links": [
+                {
+                  "text": "judoka",
+                  "type": "internal",
+                  "page": "judo"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ivan Todorov"
+                ]
+              }
+            },
+            {
+              "text": "He competed in the men's middleweight event at the 1988 Summer Olympics.",
+              "links": [
+                {
+                  "text": "men's middleweight event",
+                  "type": "internal",
+                  "page": "Judo at the 1988 Summer Olympics – Men's 86 kg"
+                },
+                {
+                  "text": "1988 Summer Olympics",
+                  "type": "internal",
+                  "page": "1988 Summer Olympics"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He has been working for the Serbian Ministry of Foreign Affairs since 2018, and as of 1 December 2018 he is the Ambassador of Serbia to Hungary.",
+              "links": [
+                {
+                  "text": "Serbian Ministry of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Ministry of Foreign Affairs (Serbia)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Yugoslav judoka",
+          "template": "short description"
+        },
+        {
+          "date": "June 2019",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1967",
+          "month": "10",
+          "day": "7",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Ivan Todorov"
+          },
+          "nationality": {
+            "text": "Yugoslav"
+          },
+          "sport": {
+            "text": "Judo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Judo"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "October 7, 1967"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.budapest.mfa.gov.rs/ambassador.php",
+          "access-date": "22 June 2019",
+          "title": "Ambassador Ivan Todorov",
+          "year": "2018",
+          "website": "Embassy of the Republic of Serbia in Hungary website",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.sports-reference.com/olympics/athletes/to/ivan-todorov-1.html",
+          "archive-url": "https://web.archive.org/web/20200418074023/https://www.sports-reference.com/olympics/athletes/to/ivan-todorov-1.html",
+          "url-status": "dead",
+          "archive-date": "18 April 2020",
+          "title": "Ivan Todorov Olympic Results",
+          "accessdate": "26 May 2018",
+          "template": "citation",
+          "type": "sports-reference"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "yugoslavia-judo-bio-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,638 @@
+{
+  "title": "Branko Ružić (politician)",
+  "pageID": 54438893,
+  "categories": [
+    "1975 births",
+    "Living people",
+    "People from Zemun",
+    "Government ministers of Serbia",
+    "Socialist Party of Serbia politicians",
+    "FK Partizan non-playing staff",
+    "Deputy Prime Ministers of Serbia",
+    "Education ministers of Serbia"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Branko Ružić (, born 14 December 1975) is a Serbian politician.",
+              "formatting": {
+                "bold": [
+                  "Branko Ružić"
+                ]
+              }
+            },
+            {
+              "text": "He is a long time-member of the Socialist Party of Serbia and member of its executive board.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Socialist Party of Serbia"
+                }
+              ]
+            },
+            {
+              "text": "He currently serves as the First Deputy Prime Minister of Serbia and Minister of Education, Science and Technological Development.",
+              "links": [
+                {
+                  "text": "First Deputy Prime Minister of Serbia",
+                  "type": "internal",
+                  "page": "Deputy Prime Minister of Serbia"
+                },
+                {
+                  "text": "Minister of Education, Science and Technological Development",
+                  "type": "internal",
+                  "page": "Ministry of Education, Science and Technological Development (Serbia)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He also served as the Minister without portfolio in charge of European integration from 2013 to 2014, and the Minister of Public Administration and Local Self-Government in the Government of Serbia from 2017 to 2020.",
+              "links": [
+                {
+                  "text": "Minister without portfolio",
+                  "type": "internal",
+                  "page": "Minister without portfolio (Serbia)"
+                },
+                {
+                  "text": "European integration",
+                  "type": "internal",
+                  "page": "Accession of Serbia to the European Union"
+                },
+                {
+                  "text": "Minister of Public Administration and Local Self-Government",
+                  "type": "internal",
+                  "page": "Ministry of Public Administration and Local Self-Government (Serbia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Government of Serbia"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Serbian politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "the politician",
+            "the sculptor",
+            "Branko Ružić (sculptor)"
+          ],
+          "template": "about"
+        },
+        {
+          "year": "1975",
+          "month": "12",
+          "day": "14",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Бранко Ружић"
+          ],
+          "template": "lang-sr-cyr"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Branko Ružić"
+          },
+          "native_name": {
+            "text": "Бранко Ружић"
+          },
+          "native_name_lang": {
+            "text": "sr"
+          },
+          "image": {
+            "text": "Branko Ruzic - WIKI GAP BELGRAD 018.jpg"
+          },
+          "office1": {
+            "text": "First Deputy Prime Minister of Serbia",
+            "links": [
+              {
+                "text": "First Deputy Prime Minister of Serbia",
+                "type": "internal",
+                "page": "Deputy Prime Minister of Serbia"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Ana Brnabić",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ana Brnabić"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "28 October 2020"
+          },
+          "predecessor1": {
+            "text": "Ivica Dačić",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ivica Dačić"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister of Education, Science and Technological Development",
+            "links": [
+              {
+                "text": "Minister of Education, Science and Technological Development",
+                "type": "internal",
+                "page": "Ministry of Education, Science and Technological Development (Serbia)"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Ana Brnabić",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ana Brnabić"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "28 October 2020"
+          },
+          "predecessor2": {
+            "text": "Mladen Šarčević",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mladen Šarčević"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Minister of Public Administration and Local Self-Government",
+            "links": [
+              {
+                "text": "Minister of Public Administration and Local Self-Government",
+                "type": "internal",
+                "page": "Ministry of Public Administration and Local Self-Government (Serbia)"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Ana Brnabić",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ana Brnabić"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "29 June 2017"
+          },
+          "term_end3": {
+            "text": "28 October 2020"
+          },
+          "predecessor3": {
+            "text": "Ana Brnabić",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ana Brnabić"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Marija Obradović",
+            "links": [
+              {
+                "text": "Marija Obradović",
+                "type": "internal",
+                "page": "Marija Obradović (politician)"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Minister without portfolio in charge of European integration",
+            "links": [
+              {
+                "text": "Minister without portfolio",
+                "type": "internal",
+                "page": "Minister without portfolio (Serbia)"
+              },
+              {
+                "text": "European integration",
+                "type": "internal",
+                "page": "Accession of Serbia to the European Union"
+              }
+            ]
+          },
+          "primeminister4": {
+            "text": "Ivica Dačić",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ivica Dačić"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "2 September 2013"
+          },
+          "term_end4": {
+            "text": "27 July 2014"
+          },
+          "successor4": {
+            "text": "Jadranka Joksimović",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jadranka Joksimović"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "December 14, 1975"
+          },
+          "birth_place": {
+            "text": "Zemun, Belgrade SFR Yugoslavia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zemun"
+              },
+              {
+                "type": "internal",
+                "page": "Belgrade"
+              },
+              {
+                "type": "internal",
+                "page": "SFR Yugoslavia"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Serbian"
+          },
+          "occupation": {
+            "text": "Politician"
+          },
+          "party": {
+            "text": "Socialist Party of Serbia (1996–present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Socialist Party of Serbia"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Belgrade",
+            "links": [
+              {
+                "text": "University of Belgrade",
+                "type": "internal",
+                "page": "University of Belgrade Faculty of Political Sciences"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Ana Ružić"
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          }
+        }
+      ]
+    },
+    {
+      "title": "Education and career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He graduated from the University of Belgrade and served dean student of the faculty from 1996 to 1999.",
+              "links": [
+                {
+                  "text": "University of Belgrade",
+                  "type": "internal",
+                  "page": "University of Belgrade Faculty of Political Sciences"
+                },
+                {
+                  "text": "dean student",
+                  "type": "internal",
+                  "page": "Dean (education)"
+                }
+              ]
+            },
+            {
+              "text": "During the time at the University, he joined the party of Serbian strongman Slobodan Milošević - Socialist Party of Serbia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Slobodan Milošević"
+                },
+                {
+                  "type": "internal",
+                  "page": "Socialist Party of Serbia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From April 2000 to December 2002, he was the president of the Youth of the party."
+            },
+            {
+              "text": "He also served as the spokesperson of the party from March 2001 to December 2002."
+            },
+            {
+              "text": "He was an MP in the National Assembly of Serbia from January 2001 to December 2003.",
+              "links": [
+                {
+                  "text": "MP",
+                  "type": "internal",
+                  "page": "Member of parliament"
+                },
+                {
+                  "text": "National Assembly of Serbia",
+                  "type": "internal",
+                  "page": "National Assembly (Serbia)"
+                }
+              ]
+            },
+            {
+              "text": "From 2004 to 2006 he was an MP in National Assembly of Serbia and Montenegro and several other European Boards.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Serbia and Montenegro"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 2008 to 2013 he served as the president of position parliamentary group of Socialist Party of Serbia in National Assembly, as well as a member of the permanent delegation of the National Assembly of Serbia to the Parliamentary Assembly of the Council of Europe, where he was a member of the Political Committee and a member of the Human Rights Committee.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Council of Europe"
+                }
+              ]
+            },
+            {
+              "text": "In September 2013, after the reconstruction of the cabinet of Ivica Dačić, he was named the Minister without portfolio in charge of European integration and stayed on that position until 27 April 2014.",
+              "links": [
+                {
+                  "text": "cabinet of Ivica Dačić",
+                  "type": "internal",
+                  "page": "cabinet of Ivica Dačić"
+                },
+                {
+                  "text": "Minister without portfolio",
+                  "type": "internal",
+                  "page": "Minister without portfolio (Serbia)"
+                },
+                {
+                  "text": "European integration",
+                  "type": "internal",
+                  "page": "Accession of Serbia to the European Union"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In February 2017, the Prime Minister of Serbia Aleksandar Vučić decided to run for the 2017 Serbian presidential elections.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Prime Minister of Serbia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Aleksandar Vučić"
+                },
+                {
+                  "text": "2017 Serbian presidential elections",
+                  "type": "internal",
+                  "page": "2017 Serbian presidential election"
+                }
+              ]
+            },
+            {
+              "text": "He won the elections in the first round and was sworn as the President of Serbia on 31 May 2017.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "President of Serbia"
+                }
+              ]
+            },
+            {
+              "text": "Weeks later, he gave mandate to Ana Brnabić to form the governmental cabinet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ana Brnabić"
+                }
+              ]
+            },
+            {
+              "text": "On 29 June 2017, the cabinet of Ana Brnabić was formed, with Ružić being named the Minister of Public Administration and Local Self-Government.",
+              "links": [
+                {
+                  "text": "Minister of Public Administration and Local Self-Government",
+                  "type": "internal",
+                  "page": "Ministry of Public Administration and Local Self-Government (Serbia)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "SNS: Jednoglasno - Vučić kandidat za predsednika",
+          "url": "http://www.b92.net/info/vesti/index.php?yyyy=2017&mm=02&dd=14&nav_category=11&nav_id=1230658",
+          "access-date": "29 June 2017",
+          "work": "b92.net",
+          "agency": "Tanjug",
+          "date": "14 February 2017",
+          "language": "sr",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Vucic Sworn in as Serbia's New President Amid Protests",
+          "url": "https://www.usnews.com/news/world/articles/2017-05-31/vucic-sworn-in-as-serbias-new-president-amid-protests",
+          "access-date": "29 June 2017",
+          "work": "usnews.com",
+          "date": "31 May 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Vučić: Kandidat za predsednika Vlade je Ana Brnabić",
+          "url": "http://www.b92.net/info/vesti/index.php?yyyy=2017&mm=06&dd=15&nav_category=11&nav_id=1272498",
+          "access-date": "29 June 2017",
+          "work": "b92.net",
+          "date": "15 June 2017",
+          "language": "sr",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Kabinet Ane Brnabić položio zakletvu",
+          "url": "http://www.danas.rs/politika.56.html?news_id=349757&title=Kabinet+Ane+Brnabi%C4%87+polo%C5%BEio+zakletvu",
+          "access-date": "29 June 2017",
+          "work": "danas.rs",
+          "publisher": "Danas Online",
+          "language": "sr",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Surk",
+          "first1": "Barbara",
+          "title": "Serbia Gets Its First Female, and First Openly Gay, Premier",
+          "url": "https://www.nytimes.com/2017/06/28/world/europe/serbia-ana-brnabic-prime-minister.html",
+          "access-date": "29 June 2017",
+          "work": "The New York Times",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ružić and his wife Ana have two children, son Milutin and daughter Elena."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "id": "brankoruzicsps",
+          "template": "twitter"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister without portfolio in charge of European integration",
+          "years": "2013–2014",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Jadranka Joksimović",
+          "template": "s-aft"
+        },
+        {
+          "before": "Ana Brnabić",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Public Administration and Local Self-Government",
+          "years": "2017–2020",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Marija Obradović",
+          "template": "s-aft"
+        },
+        {
+          "before": "Ivica Dačić",
+          "template": "s-bef"
+        },
+        {
+          "title": "First Deputy Prime Minister of Serbia",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "rows": "2",
+          "template": "s-inc"
+        },
+        {
+          "before": "Mladen Šarčević",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Education, Science and Technological Development",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "cabinet of ivica dačić"
+        },
+        {
+          "template": "cabinet of ana brnabić i"
+        },
+        {
+          "template": "cabinet of ana brnabić ii"
+        },
+        {
+          "template": "education ministers of serbia"
+        },
+        {
+          "template": "serbia-politician-stub"
+        }
+      ]
+    }
+  ]
+}
