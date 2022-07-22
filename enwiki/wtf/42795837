@@ -1320,6 +1320,15 @@
           "sentences": [
             {
               "text": "The Senate of the University of Belgrade officially annulled his doctorate in December 2021."
+            },
+            {
+              "text": "In June 2022, the Constitutional Court of Serbia decided that certain provisions of the Rulebook on the procedure for determining non-academic behavior in the preparation of written works, which govern the procedures for revocation of the academic title due to the pronounced measure of public condemnation for violations of the Code of Professional Ethics of the University of Belgrade, as well as certain provisions of the Statute of the University of Belgrade - are not in accordance with the Constitution and the law."
+            },
+            {
+              "text": "The already mentioned regulations, which are not in accordance with the Constitution and the law, and jeopardize two fundamental constitutional principles: the rule of law and the prohibition of retroactive effect of laws (retroactivity), are the regulations upon which Siniša Mali's diploma, granting the title of Doctor of Science, was annulled."
+            },
+            {
+              "text": "All of this practically means that Siniša Mali's doctorate should be reinstated to him since the regulations on the basis of which it was taken away from him are not in accordance with the law."
             }
           ]
         }
@@ -1588,6 +1597,34 @@
           "access-date": "2021-12-22",
           "website": "NOVA portal",
           "language": "sr-RS",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Петровић",
+          "first": "Александра",
+          "title": "Уставни суд одлучио: Универзитет не може да одузима звања",
+          "url": "https://www.politika.rs/scc/clanak/512575/Ustavni-sud-odlucio-Univerzitet-ne-moze-da-oduzima-zvanja",
+          "access-date": "2022-07-21",
+          "website": "Politika Online",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "МАЛОМ БИ ТРЕБАЛО ДА БУДЕ ВРАЋЕН ДОКТОРАТ: Неуставни и незаконити прописи на основу којих је поништен",
+          "url": "https://www.novosti.rs/c/drustvo/vesti/1137973/malom-trebalo-bude-vracen-doktorat-neustavni-nezakoniti-propisi-osnovu-kojih-ponisten",
+          "access-date": "2022-07-21",
+          "website": "NOVOSTI",
+          "language": "sr",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Malom bi trebalo da bude vraćen doktorat: Neustavni i nezakoniti propisi na osnovu kojih je poništen",
+          "url": "https://www.b92.net/info/vesti/index.php?yyyy=2022&mm=07&dd=21&nav_category=12&nav_id=2187772",
+          "access-date": "2022-07-21",
+          "website": "B92.net",
+          "language": "sr",
           "template": "citation",
           "type": "web"
         },
