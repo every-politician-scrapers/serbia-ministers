@@ -1018,28 +1018,64 @@
       ]
     },
     {
-      "title": "Arms trade scandal",
+      "title": "Krusik arms export scandal",
       "depth": 1,
       "paragraphs": [
         {
           "sentences": [
             {
-              "text": "A GIM letter dated 27 April 2017 to Krusik lists the names of three GIM representatives and three Raniad Al Jazira employees who visited the arms factory in order to inspect and accept the ordered weapons."
+              "text": "A letter dated 27 April 2017 from Serbian private company GIM, to Serbian state-owned arms company Krušik Valjevo lists the names of three GIM representatives and three Raniad Al Jazira employees who visited the arms factory in order to inspect and accept the ordered weapons.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Krušik Valjevo"
+                }
+              ]
             },
             {
-              "text": "Among the GIM representatives was Branko Stefanovic."
+              "text": "Among the GIM representatives was Branko Stefanovic, Nebojša Stefanovic'a now deceased father."
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "According to documents leaked by whistleblower Aleksandar Obradovic (a Krusik munitions plant employee), the minister’s father Branko Stefanovic was involved in the purchase of mortar shells at privileged prices from Krusik."
+              "text": "According to documents leaked by whistleblower Aleksandar Obradovic, a Krusik employee, the Nebojša Stefanovic's father Branko Stefanovic was involved in the purchase of mortar shells at privileged prices from Krusik.",
+              "links": [
+                {
+                  "text": "Aleksandar Obradovic",
+                  "type": "internal",
+                  "page": "Aleksandar Obradović (whistleblower)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In December 2019, then Minister of Defence Aleksandar Vulin said the whistleblower was a spy and that the scandal was an \"operation\" to attack the Serbian regime, specifically the then Internal Affairs Minister Stefanovic, and ultimately the President of Serbia, Aleksandar Vucic.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Aleksandar Vulin"
+                },
+                {
+                  "type": "internal",
+                  "page": "Aleksandar Vucic"
+                }
+              ]
             }
           ]
         }
       ],
       "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
         {
           "template": "citation",
           "type": "inline",
@@ -1055,6 +1091,12 @@
           "access-date": "2019-12-21",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         }
       ]
     },
