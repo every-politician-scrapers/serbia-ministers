@@ -1,0 +1,136 @@
+[
+  {
+    "office": {
+      "links": [
+        "City Assembly of Belgrade"
+      ],
+      "stated_as": "Member of the City Assembly of Belgrade"
+    },
+    "P580": "2008-07-14",
+    "P582": "2008-08-19"
+  },
+  {
+    "office": {
+      "links": [
+        "Belgrade"
+      ],
+      "stated_as": "Deputy Mayor of Belgrade"
+    },
+    "P580": "2008-08-19",
+    "P1365": {
+      "links": [
+        "Radmila Hrustanović"
+      ],
+      "stated_as": "position vacant, previously Radmila Hrustanović"
+    },
+    "P582": "2012-06-12",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Tatjana Pešić"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Pošta Srbije"
+      ],
+      "stated_as": "Director of Pošta Srbije"
+    },
+    "P580": "2012",
+    "P1365": {
+      "links": [
+        "Goran Ćirić"
+      ],
+      "stated_as": "Goran Ćirić"
+    },
+    "P582": "2016",
+    "P1366": {
+      "links": [
+        "Mira Petrović"
+      ],
+      "stated_as": "Mira Petrović (Acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of the Republic of Serbia"
+      ],
+      "stated_as": "Member of the National Assembly of the Republic of Serbia"
+    },
+    "P580": "2012-05-31",
+    "P582": "2016-08-11"
+  },
+  {
+    "office": {
+      "links": [
+        "City Assembly of Belgrade"
+      ],
+      "stated_as": "Member of the City Assembly of Belgrade"
+    },
+    "P580": "2012-06-12",
+    "P582": "2013-11-18"
+  },
+  {
+    "office": {
+      "links": [
+        "City Assembly of Belgrade"
+      ],
+      "stated_as": "Member of the City Assembly of Belgrade"
+    },
+    "P580": "2014-04-23",
+    "P582": "2014-05-28"
+  },
+  {
+    "office": {
+      "links": [
+        "Party of United Pensioners, Farmers, and Proletarians of Serbia – Solidarity and Justice"
+      ],
+      "stated_as": "Leader of the Party of United Pensioners, Farmers, and Proletarians of Serbia – Solidarity and Justice"
+    },
+    "P580": "2014-06",
+    "P1365": {
+      "links": [
+        "Jovan Krkobabić"
+      ],
+      "stated_as": "Jovan Krkobabić"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister without portfolio (Serbia)"
+      ],
+      "stated_as": "Minister without portfolio\nin charge of Regional development"
+    },
+    "P580": "2016-08-11",
+    "P582": "2020-10-28"
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of the Republic of Serbia"
+      ],
+      "stated_as": "Member of the National Assembly of the Republic of Serbia"
+    },
+    "P580": "2020-08-03",
+    "P582": "2020-10-26"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Rural Welfare (Serbia)"
+      ],
+      "stated_as": "Minister of Rural Welfare"
+    },
+    "P580": "2020-10-28",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "office established"
+    }
+  }
+]

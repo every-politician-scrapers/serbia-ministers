@@ -1,0 +1,71 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister without portfolio (Serbia)",
+        "Accession of Serbia to the European Union"
+      ],
+      "stated_as": "Minister without portfolio in charge of European integration"
+    },
+    "P580": "2013-09-02",
+    "P582": "2014-07-27",
+    "P1366": {
+      "links": [
+        "Jadranka Joksimović"
+      ],
+      "stated_as": "Jadranka Joksimović"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Public Administration and Local Self-Government (Serbia)"
+      ],
+      "stated_as": "Minister of Public Administration and Local Self-Government"
+    },
+    "P580": "2017-06-29",
+    "P1365": {
+      "links": [
+        "Ana Brnabić"
+      ],
+      "stated_as": "Ana Brnabić"
+    },
+    "P582": "2020-10-28",
+    "P1366": {
+      "links": [
+        "Marija Obradović (politician)"
+      ],
+      "stated_as": "Marija Obradović"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of Serbia"
+      ],
+      "stated_as": "First Deputy Prime Minister of Serbia"
+    },
+    "P580": "2020-10-28",
+    "P1365": {
+      "links": [
+        "Ivica Dačić"
+      ],
+      "stated_as": "Ivica Dačić"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Education, Science and Technological Development (Serbia)"
+      ],
+      "stated_as": "Minister of Education, Science and Technological Development"
+    },
+    "P580": "2020-10-28",
+    "P1365": {
+      "links": [
+        "Mladen Šarčević"
+      ],
+      "stated_as": "Mladen Šarčević"
+    }
+  }
+]

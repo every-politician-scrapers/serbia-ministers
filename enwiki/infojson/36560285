@@ -1,0 +1,72 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Mining and Energy (Serbia)"
+      ],
+      "stated_as": "Minister of Energy, Development and Environmental Protection"
+    },
+    "P580": "2012-07-27",
+    "P1365": {
+      "links": [
+        "Milutin Mrkonjić",
+        "Oliver Dulić"
+      ],
+      "stated_as": "Milutin Mrkonjić (Energy)\nOliver Dulić (Environmental Protection)"
+    },
+    "P582": "2014-04-27",
+    "P1366": {
+      "links": [
+        "Aleksandar Antić"
+      ],
+      "stated_as": "Aleksandar Antić (Energy and Mining)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of Serbia"
+      ],
+      "stated_as": "Deputy Prime Minister of Serbia"
+    },
+    "P580": "2014-04-27",
+    "P1365": {
+      "links": [
+        "Jovan Krkobabić"
+      ],
+      "stated_as": "Jovan Krkobabić"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Construction, Transportation and Infrastructure (Serbia)"
+      ],
+      "stated_as": "Minister of Construction, Transport, and Infrastructure"
+    },
+    "P580": "2014-04-27",
+    "P1365": {
+      "links": [
+        "Velimir Ilić",
+        "Aleksandar Antić"
+      ],
+      "stated_as": "Velimir Ilić (Construction and Urbanism)\nAleksandar Antić (Transport)"
+    },
+    "P582": "2020-10-28"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Mining and Energy (Serbia)"
+      ],
+      "stated_as": "Minister of Energy, Development and Environmental Protection"
+    },
+    "P580": "2020-10-28",
+    "P1365": {
+      "links": [
+        "Aleksandar Antić"
+      ],
+      "stated_as": "Aleksandar Antić"
+    }
+  }
+]

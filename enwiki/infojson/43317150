@@ -1,0 +1,34 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister without portfolio (Serbia)",
+        "Accession of Serbia to the European Union"
+      ],
+      "stated_as": "Minister without portfolio in charge of European integration"
+    },
+    "P580": "2014-04-27",
+    "P1365": {
+      "links": [
+        "Branko Ružić (politician)"
+      ],
+      "stated_as": "Branko Ružić"
+    },
+    "P582": "2017-06-29"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of European Integration (Serbia)"
+      ],
+      "stated_as": "Minister of European Integration"
+    },
+    "P580": "2017-06-29",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    }
+  }
+]

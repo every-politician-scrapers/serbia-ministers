@@ -1,0 +1,91 @@
+[
+  {
+    "office": {
+      "links": [
+        "Assembly of Vojvodina"
+      ],
+      "stated_as": "Member of the Assembly of Vojvodina (Novi Sad Division 13)"
+    },
+    "P580": "1997-01-09",
+    "P1365": {
+      "links": [
+        "Stevan Vrbaški"
+      ],
+      "stated_as": "Stevan Vrbaški"
+    },
+    "P582": "2000-10-23",
+    "P1366": {
+      "links": [
+        "Aleksandar Jevtić (politician)"
+      ],
+      "stated_as": "Aleksandar Jevtić"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Assembly of Vojvodina"
+      ],
+      "stated_as": "Member of the Assembly of Vojvodina (Novi Sad Division 10)"
+    },
+    "P580": "2000-10-23",
+    "P1365": {
+      "links": [
+        "Lazar Slepčev"
+      ],
+      "stated_as": "Lazar Slepčev"
+    },
+    "P582": "2004-10-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "redistribution"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly (Serbia)"
+      ],
+      "stated_as": "Member of the National Assembly of the Republic of Serbia"
+    },
+    "P580": "2001-01-22",
+    "P582": "2020-08-03"
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly (Serbia)"
+      ],
+      "stated_as": "Vice President of the National Assembly of the Republic of Serbia"
+    },
+    "P580": "2001-01-22",
+    "P582": "2004-01-27"
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly (Serbia)"
+      ],
+      "stated_as": "Vice President of the National Assembly of the Republic of Serbia"
+    },
+    "P580": "2008-06-26",
+    "P582": "2020-08-03"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Human and Minority Rights (Serbia)"
+      ],
+      "stated_as": "Minister for Human and Minority Rights and Social Dialogue"
+    },
+    "P580": "2020-10-28",
+    "P1365": {
+      "links": [
+        "Milan Marković"
+      ],
+      "stated_as": "Position re-established Milan Marković (2011–12)"
+    }
+  }
+]

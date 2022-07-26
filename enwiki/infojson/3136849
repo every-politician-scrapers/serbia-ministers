@@ -1,0 +1,33 @@
+[
+  {
+    "office": {
+      "links": [
+        "New Belgrade"
+      ],
+      "stated_as": "President of the New Belgrade Municipality"
+    },
+    "P580": "2012-06-27",
+    "P1365": {
+      "links": [
+        "Nenad Milenković"
+      ],
+      "stated_as": "Nenad Milenković"
+    },
+    "P582": "2022-06-27"
+  },
+  {
+    "office": {
+      "links": [
+        "Mayor of Belgrade"
+      ],
+      "stated_as": "Mayor of Belgrade"
+    },
+    "P580": "2022-06-20",
+    "P1365": {
+      "links": [
+        "Zoran Radojičić"
+      ],
+      "stated_as": "Zoran Radojičić"
+    }
+  }
+]

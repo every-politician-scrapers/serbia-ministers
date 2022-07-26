@@ -1,0 +1,28 @@
+[
+  {
+    "office": {
+      "links": [
+        "Parliamentary Assembly of the Council of Europe",
+        "Parliamentary Assembly of the Council of Europe"
+      ],
+      "stated_as": "Vice President of the Parliamentary Assembly of the Council of Europe"
+    },
+    "P580": "2017-10-09",
+    "P582": "2019-01-20"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Public Administration and Local Self-Government"
+      ],
+      "stated_as": "Minister of Public Administration and Local Self-Government of Serbia"
+    },
+    "P580": "2020-10-28",
+    "P1365": {
+      "links": [
+        "Branko Ružić (politician)"
+      ],
+      "stated_as": "Branko Ružić"
+    }
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "office": {
+      "links": [
+        "Security Intelligence Agency"
+      ],
+      "stated_as": "Director of the Security Intelligence Agency"
+    },
+    "P580": "2012-08-03",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Saša Vukadinović"
+    },
+    "P582": "2013-09-03",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Aleksandar Đorđević"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Defence (Serbia)"
+      ],
+      "stated_as": "Minister of Defence"
+    },
+    "P580": "2013-09-02",
+    "P1365": {
+      "links": [
+        "Aleksandar Vučić"
+      ],
+      "stated_as": "Aleksandar Vučić"
+    },
+    "P582": "2014-04-27",
+    "P1366": {
+      "links": [
+        "Bratislav Gašić"
+      ],
+      "stated_as": "Bratislav Gašić"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Ambassador of Serbia to Azerbeijan"
+    },
+    "P580": "2014",
+    "P582": "2018"
+  },
+  {
+    "office": {
+      "links": [
+        "Embassy of Serbia, Vienna"
+      ],
+      "stated_as": "Ambassador of Serbia to Austria"
+    },
+    "P580": "2018-07-26"
+  }
+]

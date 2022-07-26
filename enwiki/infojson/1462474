@@ -1,0 +1,110 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister without portfolio (Serbia)"
+      ],
+      "stated_as": "Minister without portfolio"
+    },
+    "P580": "1998-03-24",
+    "P582": "1999-11-11"
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of Yugoslavia"
+      ],
+      "stated_as": "Deputy Prime Minister of Yugoslavia"
+    },
+    "P580": "1999-08-12",
+    "P1365": {
+      "links": [
+        "Vuk Drašković"
+      ],
+      "stated_as": "Vuk Drašković"
+    },
+    "P582": "2000-11-04",
+    "P1366": {
+      "links": [
+        "Miroljub Labus"
+      ],
+      "stated_as": "Miroljub Labus"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Mayor of Novi Sad"
+      ],
+      "stated_as": "70th Mayor of Novi Sad"
+    },
+    "P580": "2004-10-05",
+    "P1365": {
+      "links": [
+        "Borislav Novaković"
+      ],
+      "stated_as": "Borislav Novaković"
+    },
+    "P582": "2008-06-16",
+    "P1366": {
+      "links": [
+        "Igor Pavličić"
+      ],
+      "stated_as": "Igor Pavličić"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "President of the National Assembly of Serbia"
+    },
+    "P1545": "14",
+    "P580": "2014-04-23",
+    "P1365": {
+      "links": [
+        "Nebojša Stefanović"
+      ],
+      "stated_as": "Nebojša Stefanović"
+    },
+    "P582": "2020-08-03",
+    "P1366": {
+      "links": [
+        "Smilja Tišma",
+        "Ivica Dačić"
+      ],
+      "stated_as": "Smilja Tišma (acting) Ivica Dačić"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of Serbia"
+      ],
+      "stated_as": "Deputy Prime Minister of Serbia"
+    },
+    "P580": "2020-10-28",
+    "P1365": {
+      "links": [
+        "Rasim Ljajić"
+      ],
+      "stated_as": "Rasim Ljajić"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Culture and Information (Serbia)"
+      ],
+      "stated_as": "Minister of Culture and Information"
+    },
+    "P580": "2020-10-28",
+    "P1365": {
+      "links": [
+        "Vladan Vukosavljević (politician)"
+      ],
+      "stated_as": "Vladan Vukosavljević"
+    }
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Information (Serbia)"
+      ],
+      "stated_as": "Minister of Information of Serbia"
+    },
+    "P580": "2000-10-24",
+    "P1365": {
+      "links": [
+        "Aleksandar Vučić"
+      ],
+      "stated_as": "Aleksandar Vučić"
+    },
+    "P582": "2001-01-25",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Office abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of Serbia"
+      ],
+      "stated_as": "First Deputy Prime Minister of Serbia"
+    },
+    "P580": "2008-07-07",
+    "P1365": {
+      "links": [
+        "Božidar Đelić"
+      ],
+      "stated_as": "Božidar Đelić"
+    },
+    "P582": "2012-07-27",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Aleksandar Vučić"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Internal Affairs (Serbia)"
+      ],
+      "stated_as": "Minister of Internal Affairs"
+    },
+    "P580": "2008-07-07",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Mirjana Orašanin (Acting)"
+    },
+    "P582": "2014-04-27",
+    "P1366": {
+      "links": [
+        "Nebojša Stefanović"
+      ],
+      "stated_as": "Nebojša Stefanović"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Serbia"
+      ],
+      "stated_as": "Prime Minister of Serbia"
+    },
+    "P580": "2012-07-27",
+    "P1365": {
+      "links": [
+        "Mirko Cvetković"
+      ],
+      "stated_as": "Mirko Cvetković"
+    },
+    "P582": "2014-04-27",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Aleksandar Vučić"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of Serbia"
+      ],
+      "stated_as": "First Deputy Prime Minister of Serbia"
+    },
+    "P580": "2014-04-27",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Aleksandar Vučić"
+    },
+    "P582": "2020-10-22",
+    "P1366": {
+      "links": [
+        "Branko Ružić (politician)"
+      ],
+      "stated_as": "Branko Ružić"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Foreign Affairs (Serbia)"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "2014-04-27",
+    "P1365": {
+      "links": [
+        "Ivan Mrkić"
+      ],
+      "stated_as": "Ivan Mrkić"
+    },
+    "P582": "2020-10-22",
+    "P1366": {
+      "links": [
+        "Ana Brnabić",
+        "Nikola Selaković"
+      ],
+      "stated_as": "Ana Brnabić (Acting)\nNikola Selaković"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Serbia"
+      ],
+      "stated_as": "Prime Minister of Serbia"
+    },
+    "P580": "2017-05-31",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Aleksandar Vučić"
+    },
+    "P582": "2017-06-29",
+    "P1366": {
+      "links": [
+        "Ana Brnabić"
+      ],
+      "stated_as": "Ana Brnabić"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of the National Assembly of Serbia"
+      ],
+      "stated_as": "President of the National Assembly of Serbia"
+    },
+    "P580": "2020-10-22",
+    "P1365": {
+      "links": [
+        "Smilja Tišma",
+        "Maja Gojković"
+      ],
+      "stated_as": "Smilja Tišma (Acting) Maja Gojković"
+    }
+  }
+]
