@@ -1,0 +1,42 @@
+[
+  {
+    "office": {
+      "links": [
+        "Mayor of Belgrade"
+      ],
+      "stated_as": "73rd Mayor of Belgrade"
+    },
+    "P1545": "73",
+    "P580": "2014-04-24",
+    "P1365": {
+      "links": [
+        "Dragan Đilas"
+      ],
+      "stated_as": "Dragan Đilas"
+    },
+    "P582": "2018-05-28",
+    "P1366": {
+      "links": [
+        "Andreja Mladenović",
+        "Zoran Radojičić"
+      ],
+      "stated_as": "Andreja Mladenović (Acting)\nZoran Radojičić"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Finance (Serbia)"
+      ],
+      "stated_as": "Minister of Finance"
+    },
+    "P580": "2018-05-29",
+    "P1365": {
+      "links": [
+        "Dušan Vujović",
+        "Ana Brnabić"
+      ],
+      "stated_as": "Dušan Vujović\nAna Brnabić (Acting)"
+    }
+  }
+]

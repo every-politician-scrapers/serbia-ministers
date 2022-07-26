@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Surdulica"
+      ],
+      "stated_as": "Mayor of Surdulica"
+    },
+    "P580": "2008",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Stanislav Momčilović"
+    },
+    "P582": "2014",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Aleksandar Popović"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister without portfolio (Serbia)"
+      ],
+      "stated_as": "Minister without portfolio"
+    },
+    "P580": "2020-10-28",
+    "P1365": {
+      "links": [
+        "Slavica Đukić Dejanović"
+      ],
+      "stated_as": "Slavica Đukić Dejanović"
+    }
+  }
+]

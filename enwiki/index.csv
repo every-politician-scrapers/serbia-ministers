@@ -1,32 +1,32 @@
-pageid,title
-717917,Ivica Dačić
-1462474,Maja Gojković
-3136849,Aleksandar Šapić
-7598542,Vanja Udovičić
-10345436,Nenad Popović
-13349267,Aleksandar Vučić
-36089532,Jorgovanka Tabaković
-36530963,Nebojša Stefanović
-36549410,Nikola Selaković
-36560285,Zorana Mihajlović
-38676276,Aleksandar Vulin
-42795837,Siniša Mali
-43317150,Jadranka Joksimović
-53005565,Zlatibor Lončar
-53702579,Gordana Čomić
-54310335,Ana Brnabić
-54438893,Branko Ružić (politician)
-57331515,Marija Obradović (politician)
-57518662,Ivan Todorov (judoka)
-57874639,Novica Tončev
-58005881,Milan Krkobabić
-58486075,Milan Mojsilović
-63935520,Branislav Nedimović
-64390331,Nebojša Rodić
-64488338,Irena Vujović
-65649681,Ratko Dmitrović
-65674572,Tomislav Momirović
-65699999,Darija Kisić Tepavčević
-65700972,Tatjana Matić
-65701155,Anđelka Atanasković
-65736329,Maja Popović
+pageid,title,wikidata,label
+717917,Ivica Dačić,Q57843,Ivica Dačić
+1462474,Maja Gojković,Q1280390,Maja Gojković
+3136849,Aleksandar Šapić,Q960994,Aleksandar Šapić
+7598542,Vanja Udovičić,Q1292388,Vanja Udovičić
+10345436,Nenad Popović,Q4372683,Nenad Popović
+13349267,Aleksandar Vučić,Q222031,Aleksandar Vučić
+36089532,Jorgovanka Tabaković,Q1263807,Jorgovanka Tabaković
+36530963,Nebojša Stefanović,Q4442477,Nebojša Stefanović
+36549410,Nikola Selaković,Q7438681,Nikola Selaković
+36560285,Zorana Mihajlović,Q10843366,Zorana Mihajlović
+38676276,Aleksandar Vulin,Q11074974,Aleksandar Vulin
+42795837,Siniša Mali,Q16935101,Siniša Mali
+43317150,Jadranka Joksimović,Q17388477,Jadranka Joksimović
+53005565,Zlatibor Lončar,Q17350745,Zlatibor Lončar
+53702579,Gordana Čomić,Q16269542,Gordana Čomić
+54310335,Ana Brnabić,Q26258815,Ana Brnabić
+54438893,Branko Ružić (politician),Q12749330,Branko Ružić
+57331515,Marija Obradović (politician),Q27907563,Marija Obradović
+57518662,Ivan Todorov (judoka),Q54232947,Ivan Todorov
+57874639,Novica Tončev,Q55584331,Novica Tončev
+58005881,Milan Krkobabić,Q15708342,Milan Krkobabić
+58486075,Milan Mojsilović,Q16087512,Milan Mojsilović
+63935520,Branislav Nedimović,Q29571792,Branislav Nedimović
+64390331,Nebojša Rodić,Q16087590,Nebojša Rodić
+64488338,Irena Vujović,Q97041188,Irena Vujović
+65649681,Ratko Dmitrović,Q12959561,Radomir Dmitrović
+65674572,Tomislav Momirović,Q100848615,Tomislav Momirović
+65699999,Darija Kisić Tepavčević,Q97329382,Darija Kisić Tepavčević
+65700972,Tatjana Matić,Q100975531,Tatjana Matić
+65701155,Anđelka Atanasković,Q100975934,Anđelka Atanasković
+65736329,Maja Popović,Q100996171,Maja Popović

@@ -1,0 +1,63 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Justice (Serbia)"
+      ],
+      "stated_as": "Minister of Justice and Public Administration"
+    },
+    "P580": "2012-07-27",
+    "P1365": {
+      "links": [
+        "Snežana Malović",
+        "Milan Marković"
+      ],
+      "stated_as": "Snežana Malović Milan Marković (Public Administration)"
+    },
+    "P582": "2014-04-27",
+    "P1366": {
+      "links": [
+        "Kori Udovički"
+      ],
+      "stated_as": "Nikola Selaković Kori Udovički (Public Administration)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Justice (Serbia)"
+      ],
+      "stated_as": "Minister of Justice"
+    },
+    "P580": "2014-04-27",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Nikola Selaković"
+    },
+    "P582": "2016-08-11",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Nela Kuburović"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Foreign Affairs (Serbia)"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "2020-10-28",
+    "P1365": {
+      "links": [
+        "Ana Brnabić",
+        "Ivica Dačić"
+      ],
+      "stated_as": "Ana Brnabić (acting) Ivica Dačić"
+    }
+  }
+]

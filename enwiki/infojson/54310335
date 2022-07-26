@@ -1,0 +1,83 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Public Administration and Local Self-Government (Serbia)"
+      ],
+      "stated_as": "Minister of Public Administration and Local Self-Government"
+    },
+    "P580": "2016-08-11",
+    "P1365": {
+      "links": [
+        "Kori Udovički"
+      ],
+      "stated_as": "Kori Udovički"
+    },
+    "P582": "2017-06-29",
+    "P1366": {
+      "links": [
+        "Branko Ružić (politician)"
+      ],
+      "stated_as": "Branko Ružić"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Serbia"
+      ],
+      "stated_as": "Prime Minister of Serbia"
+    },
+    "P580": "2017-06-29",
+    "P1365": {
+      "links": [
+        "Ivica Dačić"
+      ],
+      "stated_as": "Aleksandar Vučić\nIvica Dačić (Acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Finance (Serbia)"
+      ],
+      "stated_as": "Minister of Finance\nActing"
+    },
+    "P580": "2018-05-16",
+    "P1365": {
+      "links": [
+        "Dušan Vujović"
+      ],
+      "stated_as": "Dušan Vujović"
+    },
+    "P582": "2018-05-29",
+    "P1366": {
+      "links": [
+        "Siniša Mali"
+      ],
+      "stated_as": "Siniša Mali"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Foreign Affairs (Serbia)"
+      ],
+      "stated_as": "Minister of Foreign Affairs\nActing"
+    },
+    "P580": "2020-10-22",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Ivica Dačić"
+    },
+    "P582": "2020-10-28",
+    "P1366": {
+      "links": [
+        "Nikola Selaković"
+      ],
+      "stated_as": "Nikola Selaković"
+    }
+  }
+]

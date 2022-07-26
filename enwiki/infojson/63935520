@@ -1,0 +1,42 @@
+[
+  {
+    "office": {
+      "links": [
+        "Sremska Mitrovica"
+      ],
+      "stated_as": "Mayor of Sremska Mitrovica"
+    },
+    "P580": "2008",
+    "P582": "2016"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Agriculture (Serbia)"
+      ],
+      "stated_as": "Minister of Agriculture, Forestry and Water Economy"
+    },
+    "P580": "2016-08-11",
+    "P1365": {
+      "links": [
+        "Snežana Bogosavljević Bošković"
+      ],
+      "stated_as": "Snežana Bogosavljević Bošković"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of Serbia"
+      ],
+      "stated_as": "Deputy Prime Minister of Serbia"
+    },
+    "P580": "2020-10-28",
+    "P1365": {
+      "links": [
+        "Ivica Dačić"
+      ],
+      "stated_as": "Ivica Dačić"
+    }
+  }
+]
