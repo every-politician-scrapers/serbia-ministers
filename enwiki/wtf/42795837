@@ -1347,6 +1347,16 @@
             "Афера Докторати"
           ],
           "template": "interlanguage link"
+        },
+        {
+          "date": "July 2022",
+          "reason": "Novosti isn't newspaper of record and this sentence makes material assumptions about violated consitutional principles based solely on its article; retroactivity in particular is a complex topic elaborated at length in the decision",
+          "template": "rs?"
+        },
+        {
+          "date": "July 2022",
+          "reason": "b92.net is not media of record and its articles shouldn't be meritable for what \"should\" be done. This is a question to be decided in a separate court proceeding.",
+          "template": "rs?"
         }
       ],
       "references": [
