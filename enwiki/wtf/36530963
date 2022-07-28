@@ -1077,10 +1077,11 @@
           "inline": {}
         },
         {
+          "url": "https://www.dw.com/en/mystery-plane-crash-were-serbian-weapons-headed-for-ukraine/a-62574069",
+          "title": "Mystery plane crash: Were Serbian weapons headed for Ukraine? &#124; DW &#124; 23.07.2022",
+          "website": "Deutsche Welle",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "url": "http://rs.n1info.com/English/NEWS/a542277/Serbian-Anti-Corruption-Agency-tells-N1-it-is-investigating-Minister-Stefanovic.html",
@@ -1093,10 +1094,11 @@
           "type": "web"
         },
         {
+          "url": "https://rs.n1info.com/english/news/a556543-defence-min-asks-for-n1s-business-information-when-asked-about-krusik-scandal/",
+          "title": "Defence Min. Asks for N1's business information when asked about Krusik scandal",
+          "date": "29 December 2019",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         }
       ]
     },
